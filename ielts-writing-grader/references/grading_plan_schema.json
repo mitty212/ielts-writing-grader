@@ -1,0 +1,230 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "IELTSWritingGradingPlan",
+  "description": "Intermediate schema representing a complete IELTS Writing grading evaluation for one or multiple students.",
+  "type": "object",
+  "required": [
+    "task_type",
+    "prompt",
+    "topic_name",
+    "students"
+  ],
+  "properties": {
+    "task_type": {
+      "type": "string",
+      "enum": ["Task 1", "Task 2"]
+    },
+    "task_subtype": {
+      "type": "string",
+      "description": "Specific sub-genre, e.g. 'Maps — Change over time' or 'Advantages – Disadvantages (Outweigh)'"
+    },
+    "prompt": {
+      "type": "string",
+      "description": "The full original IELTS prompt/question"
+    },
+    "topic_name": {
+      "type": "string",
+      "description": "Short topic name, e.g. 'Town Centre 1990 and Today' or 'Retirement Age'"
+    },
+    "task1_key_features": {
+      "type": "array",
+      "description": "For Task 1: list of key features comparison rows [category, past, present/trend]",
+      "items": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "task1_coverage_matrix": {
+      "type": "array",
+      "description": "For Task 1: coverage check matrix [feature, student1_mark, student2_mark...]",
+      "items": {
+        "type": "array",
+        "items": { "type": "string" }
+      }
+    },
+    "overall_strengths": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "overall_weaknesses": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "overall_classroom_suggestions": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "model_answer": {
+      "type": "object",
+      "description": "Model answer for the task (Band 7+ / 8.0)",
+      "properties": {
+        "title": { "type": "string" },
+        "paragraphs": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "word_count": { "type": "integer" }
+      }
+    },
+    "students": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "word_count",
+          "scores",
+          "original_essay_marked",
+          "criteria_analysis",
+          "improvement_plan",
+          "callout_summary"
+        ],
+        "properties": {
+          "name": { "type": "string" },
+          "word_count": { "type": "string" },
+          "scores": {
+            "type": "object",
+            "required": ["C1", "C2", "C3", "C4", "TB", "BAND"],
+            "properties": {
+              "C1": { "type": "number", "description": "TA or TR score" },
+              "C2": { "type": "number", "description": "CC score" },
+              "C3": { "type": "number", "description": "LR score" },
+              "C4": { "type": "number", "description": "GRA score" },
+              "TB": { "type": "number", "description": "Arithmetic mean (unrounded)" },
+              "BAND": { "type": "number", "description": "Official IELTS rounded band" }
+            }
+          },
+          "score_summary_table": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "criterion": { "type": "string" },
+                "band": { "type": "string" },
+                "comment": { "type": "string" }
+              }
+            }
+          },
+          "general_comment": { "type": "string" },
+          "original_essay_marked": {
+            "type": "array",
+            "description": "List of paragraphs, each containing an array of run objects with text and flags",
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["text"],
+                "properties": {
+                  "text": { "type": "string" },
+                  "highlight": { "type": "string", "enum": ["error", "good", "none"] }
+                }
+              }
+            }
+          },
+          "criteria_analysis": {
+            "type": "object",
+            "properties": {
+              "criterion1": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": "string" },
+                  "strengths": { "type": "array", "items": { "type": "string" } },
+                  "weaknesses": { "type": "array", "items": { "type": "string" } },
+                  "special_notes": { "type": "array", "items": { "type": "string" } }
+                }
+              },
+              "criterion2": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": "string" },
+                  "strengths": { "type": "array", "items": { "type": "string" } },
+                  "weaknesses": { "type": "array", "items": { "type": "string" } }
+                }
+              },
+              "criterion3": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": "string" },
+                  "praises": { "type": "array", "items": { "type": "string" } },
+                  "corrections_table": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "error": { "type": "string" },
+                        "fix": { "type": "string" },
+                        "explanation": { "type": "string" }
+                      }
+                    }
+                  }
+                }
+              },
+              "criterion4": {
+                "type": "object",
+                "properties": {
+                  "title": { "type": "string" },
+                  "praises": { "type": "array", "items": { "type": "string" } },
+                  "corrections_table": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "error": { "type": "string" },
+                        "fix": { "type": "string" },
+                        "explanation": { "type": "string" }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "improvement_plan": {
+            "type": "object",
+            "properties": {
+              "target_band": { "type": "string" },
+              "priorities": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "title": { "type": "string" },
+                    "details": { "type": "array", "items": { "type": "string" } },
+                    "structure_table": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "section": { "type": "string" },
+                          "content": { "type": "string" }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "rewrite_sample": {
+                "type": "object",
+                "properties": {
+                  "intro": { "type": "string" },
+                  "body1": { "type": "string" },
+                  "body2": { "type": "string" },
+                  "conclusion": { "type": "string" }
+                }
+              }
+            }
+          },
+          "callout_summary": {
+            "type": "object",
+            "required": ["estimated_band", "target_band", "roadmap"],
+            "properties": {
+              "estimated_band": { "type": "string" },
+              "target_band": { "type": "string" },
+              "roadmap": { "type": "string" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

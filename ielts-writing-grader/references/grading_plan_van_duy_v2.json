@@ -1,0 +1,413 @@
+{
+  "task_type": "Task 2",
+  "task_subtype": "Discussion Essay (Discuss both views and give your own opinion)",
+  "prompt": "Some people think that parents should teach their children how to be good members of society. Others, however, believe that school is the best place to learn this. Discuss both views and give your own opinion.",
+  "topic_name": "Educating Children to be Good Members of Society: Parents vs Schools",
+  "overall_strengths": [
+    "Bài viết đạt độ dài 328 từ với bố cục 4 đoạn mẫu mực, trả lời trọn vẹn cả hai vế của đề bài và duy trì lập trường nhất quán (nghiêng về vai trò của gia đình) từ Mở bài đến Kết luận.",
+    "Sử dụng vốn từ vựng học thuật phong phú, tự nhiên và chính xác: 'function as useful members of society', 'nurtured successful alumni', 'form stronger bonds with their offspring', 'instil a sense of compassion and integrity'.",
+    "Có nhiều dẫn chứng cụ thể mang tính thuyết phục cao: các trường học tiêu biểu (Trưng Vương, Vinschool), các tấm gương cống hiến (Giáo sư Ngô Bảo Châu, Nguyễn Hùng) và truyện kể nuôi dưỡng lòng trắc ẩn (Robin Hood, Cinderella)."
+  ],
+  "overall_weaknesses": [
+    "Lệch trọng tâm ở một số luận điểm (Conceptual Drift): Luận điểm ở thân bài 1 tập trung vào 'phát triển trí tuệ/học thuật' (cognitive development) và 'thành công của cựu học sinh' thay vì giáo dục đạo đức, kỷ luật và trách nhiệm công dân. Ở thân bài 2, 'One to one lessons at home' nghe như dạy kèm văn hóa hơn là uốn nắn nhân cách.",
+    "Phản biện ở Thân bài 1 hơi cực đoan: Trong bài 'Discuss both views', thân bài 1 cần giải thích công bằng tại sao nhiều người tin trường học là nơi tốt nhất (ví dụ: môi trường tập thể, học cách tuân thủ nội quy, hòa nhập với bạn bè) trước khi đưa ra ý kiến cá nhân.",
+    "Một vài lỗi dùng từ và chính tả nhỏ: Dùng 'parts of the community' thay vì 'members'; thiếu chữ 'Châu' trong 'Professor Ngo Bao'; thiếu liên từ 'and' trong liệt kê truyện kể."
+  ],
+  "overall_classroom_suggestions": [
+    "Bám sát định nghĩa 'good members of society': Đây là khái niệm về đạo đức, tuân thủ pháp luật, tinh thần tập thể và trách nhiệm công dân, không đơn thuần là thành tựu học thuật hay tài năng cá nhân.",
+    "Phát huy thế mạnh của trường học: Trường học là xã hội thu nhỏ (microcosm of society), nơi trẻ rèn luyện kỹ năng làm việc nhóm, tôn trọng sự khác biệt và tuân thủ các quy tắc kỷ luật.",
+    "Hoàn thiện các liên từ và từ ghép: chú ý gạch nối trong tính từ ghép 'one-to-one' và thêm 'and' khi liệt kê hai đối tượng."
+  ],
+  "students": [
+    {
+      "name": "Văn Duy",
+      "word_count": "328",
+      "scores": {
+        "C1": 7.0,
+        "C2": 7.0,
+        "C3": 7.0,
+        "C4": 7.0,
+        "TB": 7.0,
+        "BAND": 7.0
+      },
+      "score_summary_table": [
+        {
+          "criterion": "Task Response",
+          "band": "7.0",
+          "comment": "Bàn luận đủ 2 quan điểm, lập trường rõ ràng xuyên suốt; ví dụ thực tế phong phú; cần bám sát hơn vào đạo đức công dân."
+        },
+        {
+          "criterion": "Coherence & Cohesion",
+          "band": "7.0",
+          "comment": "Bố cục 4 đoạn chặt chẽ, mạch lạc; chuyển ý tự nhiên; phân đoạn hợp lý."
+        },
+        {
+          "criterion": "Lexical Resource",
+          "band": "7.0",
+          "comment": "Vốn từ học thuật phong phú (nurtured alumni, instil compassion); một vài lỗi collocation nhỏ ('good parts')."
+        },
+        {
+          "criterion": "Grammatical Range & Accuracy",
+          "band": "7.0",
+          "comment": "Câu phức đa dạng và chuẩn xác; kiểm soát thì và cấu trúc bị động rất tốt; ít lỗi ngữ pháp."
+        }
+      ],
+      "general_comment": "Bài viết mới của Văn Duy thể hiện sự tiến bộ vượt bậc so với bài trước! Bài viết dài 328 từ với bố cục 4 đoạn hoàn chỉnh, lập trường rõ ràng xuyên suốt và sử dụng rất nhiều từ vựng học thuật xuất sắc (như 'nurtured alumni', 'form stronger bonds with offspring', 'instil compassion and integrity'). Dẫn chứng đưa ra rất sinh động và thực tế. Bài viết đạt vững vàng mức Band 7.0 ở cả 4 tiêu chí. Để bứt phá lên Band 7.5 – 8.0, học viên chỉ cần bám chặt hơn vào khía cạnh đạo đức/công dân ở thân bài trường học và làm mượt mà hơn một vài cụm collocation.",
+      "original_essay_marked": [
+        [
+          {
+            "text": "Some people believe that children should be taught by their parents about ",
+            "highlight": "none"
+          },
+          {
+            "text": "how to function as useful members of society",
+            "highlight": "good"
+          },
+          {
+            "text": ", while others believe that sending children to ",
+            "highlight": "none"
+          },
+          {
+            "text": "educational institutions",
+            "highlight": "good"
+          },
+          {
+            "text": " is the best way ",
+            "highlight": "none"
+          },
+          {
+            "text": "for them to study this",
+            "highlight": "error"
+          },
+          {
+            "text": ". Although the latter opinion can be beneficial in some cases, I believe that ",
+            "highlight": "none"
+          },
+          {
+            "text": "family upbringing plays a more important role",
+            "highlight": "good"
+          },
+          {
+            "text": " in educating children to be ",
+            "highlight": "none"
+          },
+          {
+            "text": "good parts of the community",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "Schools can be considered suitable places for children to learn to be good citizens. With ",
+            "highlight": "none"
+          },
+          {
+            "text": "standardized educational methods",
+            "highlight": "good"
+          },
+          {
+            "text": ", schools can ",
+            "highlight": "none"
+          },
+          {
+            "text": "foster children’s cognitive development",
+            "highlight": "error"
+          },
+          {
+            "text": " so that they are able to contribute to society in the future. For example, Trung Vuong school and Vinschool are well known for having ",
+            "highlight": "none"
+          },
+          {
+            "text": "nurtured successful alumni",
+            "highlight": "good"
+          },
+          {
+            "text": " such as ",
+            "highlight": "none"
+          },
+          {
+            "text": "Professor Ngo Bao",
+            "highlight": "error"
+          },
+          {
+            "text": ", Professor Nguyen Hung ",
+            "highlight": "none"
+          },
+          {
+            "text": "who have devoted their talents to the development of the country",
+            "highlight": "good"
+          },
+          {
+            "text": ". However, these people only represent a small fraction of the total number of students attending schools, and thus sending children to schools cannot be the best method of educating them to be good members of society.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "I believe that parents play a more important role in teaching them how to be good citizens. In Vietnam, the average class size is 20 students, which makes it difficult for educators to provide ",
+            "highlight": "none"
+          },
+          {
+            "text": "proper schooling",
+            "highlight": "error"
+          },
+          {
+            "text": " for each student. ",
+            "highlight": "none"
+          },
+          {
+            "text": "One to one lessons at home",
+            "highlight": "error"
+          },
+          {
+            "text": ", on the other hand, allow children to ",
+            "highlight": "none"
+          },
+          {
+            "text": "progress faster",
+            "highlight": "error"
+          },
+          {
+            "text": ". Furthermore, parents ",
+            "highlight": "none"
+          },
+          {
+            "text": "form stronger bonds with their offspring",
+            "highlight": "good"
+          },
+          {
+            "text": " and thus, it is easier for them to ",
+            "highlight": "none"
+          },
+          {
+            "text": "shape children’s personalities at an early age",
+            "highlight": "good"
+          },
+          {
+            "text": ". For example, by telling stories such as ",
+            "highlight": "none"
+          },
+          {
+            "text": "Robin Hood, Cinderella",
+            "highlight": "error"
+          },
+          {
+            "text": " before bedtime, parents can ",
+            "highlight": "none"
+          },
+          {
+            "text": "instil a sense of compassion and integrity into them",
+            "highlight": "good"
+          },
+          {
+            "text": ". These children are likely to become good members of society when they grow up.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "In conclusion, although sending children to schools can be seen as a way of teaching them how to be good citizens, I believe that ",
+            "highlight": "none"
+          },
+          {
+            "text": "domestic upbringing has a bigger impact on determining who they are in the future",
+            "highlight": "good"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ]
+      ],
+      "criteria_analysis": {
+        "criterion1": {
+          "title": "Task Response — Band 7.0",
+          "strengths": [
+            "✓ Thảo luận đầy đủ cả hai quan điểm (Nhà trường vs Gia đình) và nêu rõ quan điểm cá nhân ngay từ Mở bài, duy trì nhất quán đến Kết luận.",
+            "✓ Đưa ra được các dẫn chứng thực tế giàu sức gợi: các ngôi trường danh tiếng, cựu học sinh cống hiến cho đất nước và những câu chuyện cổ tích nuôi dưỡng lòng trắc ẩn.",
+            "✓ Độ dài 328 từ, phát triển ý sâu và toàn diện, vượt xa yêu cầu tối thiểu."
+          ],
+          "weaknesses": [
+            "✗ Khái niệm bị chệch sang thành tựu học thuật: Ở đoạn 1, việc nhắc đến 'cognitive development' và 'thành công của các giáo sư' đang nói về tài năng trí tuệ hơn là phẩm chất 'công dân tốt' (tuân thủ luật pháp, đạo đức, chia sẻ cộng đồng).",
+            "✗ Thân bài 1 phản biện hơi sớm: Thay vì giải thích thấu đáo vì sao nhiều người tin trường học là môi trường tốt nhất (tính kỷ luật, môi trường tập thể đa dạng), tác giả lại vội vàng hạ thấp vai trò của trường học ở cuối đoạn.",
+            "✗ Cụm 'One to one lessons at home' dễ gây hiểu lầm sang việc thuê gia sư dạy văn hóa thay vì sự dạy dỗ nhân cách của cha mẹ."
+          ],
+          "special_notes": [
+            "💡 Định hướng nâng Band 8.0: Khi bàn về trường học trong việc dạy làm công dân tốt, hãy tập trung vào: (1) Tuân thủ nội quy trường lớp (tập dượt cho việc tuân thủ pháp luật); (2) Học cách hòa nhập, giải quyết mâu thuẫn trong môi trường tập thể đa dạng."
+          ]
+        },
+        "criterion2": {
+          "title": "Coherence & Cohesion — Band 7.0",
+          "strengths": [
+            "✓ Cấu trúc 4 đoạn văn kinh điển, cân đối và hoàn chỉnh: Mở bài (2 câu) – Thân bài 1 (4 câu) – Thân bài 2 (5 câu) – Kết luận (1 câu).",
+            "✓ Trình tự lập luận mạch lạc, câu chủ đề rõ ràng và các ý bổ trợ được liên kết logic.",
+            "✓ Sử dụng linh hoạt các liên từ học thuật: 'While others', 'Although the latter', 'Furthermore', 'For example', 'In conclusion'."
+          ],
+          "weaknesses": [
+            "✗ Dùng từ nối 'on the other hand' ở giữa thân bài 2 chưa chuẩn: Cụm này dùng để đối lập hai quan điểm trái chiều, trong khi ý trước và ý sau đều đang cùng ủng hộ việc giáo dục tại gia đình.",
+            "✗ Câu kết luận hơi dài (40 từ) và chỉ có 1 câu đơn độc; nên tách thành 2 câu để nhấn mạnh thông điệp cuối."
+          ]
+        },
+        "criterion3": {
+          "title": "Lexical Resource — Band 7.0",
+          "praises": [
+            "“function as useful members of society”, “family upbringing”, “standardized educational methods” — các cụm từ học thuật chuẩn xác và tự nhiên.",
+            "“nurtured successful alumni”, “devoted their talents to the development of the country” — diễn đạt sang trọng, nâng cao chất lượng bài viết.",
+            "“form stronger bonds with their offspring”, “instil a sense of compassion and integrity” — chuỗi collocation cực kỳ đắt giá về chủ đề giáo dục gia đình."
+          ],
+          "corrections_table": [
+            {
+              "error": "“for them to study this”",
+              "fix": "“to acquire these civic qualities / social values”",
+              "explanation": "Cách trở thành công dân tốt không phải là môn học thuần túy để 'study'; nên dùng 'acquire values' hoặc 'learn these skills'."
+            },
+            {
+              "error": "“good parts of the community”",
+              "fix": "“responsible / productive members of the community”",
+              "explanation": "Collocation không tự nhiên; thành viên cộng đồng dùng 'members', không dùng 'parts'."
+            },
+            {
+              "error": "“foster children’s cognitive development”",
+              "fix": "“cultivate civic awareness and social responsibility”",
+              "explanation": "Dùng lệch khái niệm: 'cognitive development' là phát triển trí tuệ/nhận thức học thuật, trong khi đề bài hỏi về cách sống có ích cho xã hội (đạo đức, công dân)."
+            },
+            {
+              "error": "“Professor Ngo Bao”",
+              "fix": "“Professor Ngo Bao Chau”",
+              "explanation": "Thiếu tên đầy đủ của danh nhân (Giáo sư Ngô Bảo Châu)."
+            },
+            {
+              "error": "“proper schooling”",
+              "fix": "“individualized moral guidance / pastoral care”",
+              "explanation": "'Schooling' mang nghĩa dạy học văn hóa; ngữ cảnh ở đây là sự chăm sóc và uốn nắn hành vi đạo đức từng cá nhân."
+            },
+            {
+              "error": "“One to one lessons at home”",
+              "fix": "“Direct parental supervision / Home guidance”",
+              "explanation": "'One to one lessons' nghe như gia sư dạy học 1-kèm-1 môn văn hóa, không phản ánh đúng sự giáo dục gia đình của cha mẹ."
+            },
+            {
+              "error": "“progress faster”",
+              "fix": "“develop healthy social behaviors / moral standards”",
+              "explanation": "'Progress faster' là tiến bộ nhanh về học tập; nên tập trung vào sự hoàn thiện đạo đức và nhân cách."
+            },
+            {
+              "error": "“Robin Hood, Cinderella”",
+              "fix": "“Robin Hood and Cinderella”",
+              "explanation": "Liệt kê 2 đối tượng bắt buộc dùng liên từ 'and', không dùng dấu phẩy đơn thuần."
+            },
+            {
+              "error": "“domestic upbringing”",
+              "fix": "“parental upbringing / family upbringing”",
+              "explanation": "'Domestic' thường mang nghĩa nội địa hoặc việc nhà (domestic chores); nuôi dạy con cái dùng 'parental upbringing' tự nhiên hơn."
+            },
+            {
+              "error": "“these people only represent”",
+              "fix": "“such prominent figures merely represent”",
+              "explanation": "Nâng cấp từ vựng học thuật chỉ các cá nhân xuất sắc: 'prominent figures / exceptional individuals'."
+            }
+          ]
+        },
+        "criterion4": {
+          "title": "Grammatical Range & Accuracy — Band 7.0",
+          "praises": [
+            "Kiểm soát ngữ pháp rất tốt với đa dạng cấu trúc phức: mệnh đề quan hệ xác định và không xác định ('which makes it difficult...'), phân từ hoàn thành ('well known for having nurtured...').",
+            "Tỷ lệ câu không có lỗi (error-free sentences) cao; cấu trúc câu rõ ràng và mượt mà."
+          ],
+          "corrections_table": [
+            {
+              "error": "“One to one lessons”",
+              "fix": "“One-to-one lessons / One-on-one interactions”",
+              "explanation": "Tính từ ghép đứng trước danh từ phải có dấu gạch nối: 'one-to-one'."
+            },
+            {
+              "error": "“Robin Hood, Cinderella before bedtime”",
+              "fix": "“fairy tales like Robin Hood and Cinderella before bedtime”",
+              "explanation": "Lỗi chấm câu liệt kê thiếu liên từ 'and' giữa 2 danh từ riêng."
+            },
+            {
+              "error": "“cannot be the best method of educating them”",
+              "fix": "“may not always be the most effective environment for cultivating good citizenship”",
+              "explanation": "Khẳng định phủ định tuyệt đối 'cannot be the best method' hơi khiên cưỡng; nên dùng ngôn ngữ giảm nhẹ học thuật (hedging: 'may not necessarily be')."
+            },
+            {
+              "error": "“In Vietnam, the average class size is 20 students, which makes it difficult...”",
+              "fix": "“With typical class sizes exceeding 30 or 40 students in many Vietnamese public schools, it is difficult...”",
+              "explanation": "Thông tin số liệu 20 học sinh/lớp ở Việt Nam chưa chuẩn thực tế (thường là 40-50); tuy nhiên về mặt ngữ pháp mệnh đề quan hệ 'which makes it difficult' rất tốt."
+            },
+            {
+              "error": "“instil a sense of compassion and integrity into them”",
+              "fix": "“instil a sense of compassion and integrity in their young minds”",
+              "explanation": "Giới từ tự nhiên nhất của 'instil something' là 'in' (thay vì 'into them')."
+            },
+            {
+              "error": "“determining who they are in the future”",
+              "fix": "“shaping their moral character and future civic behavior”",
+              "explanation": "Mệnh đề danh ngữ 'who they are' hơi mang văn phong nói; nên danh hóa thành 'shaping their moral character'."
+            }
+          ]
+        }
+      },
+      "improvement_plan": {
+        "target_band": "8.0",
+        "priorities": [
+          {
+            "title": "Ưu tiên số 1 — Gắn chặt lập luận trường học với phẩm chất công dân (Task Response)",
+            "details": [
+              "Thay vì nói trường học giúp phát triển trí tuệ (cognitive development), hãy lập luận rằng: Trường học là xã hội thu nhỏ (microcosm of society), nơi học sinh học cách tuân thủ nội quy chung, rèn luyện tinh thần đồng đội và tôn trọng sự đa dạng.",
+              "Điều này giúp phân tích quan điểm thứ nhất công bằng, sâu sắc và bám sát 100% câu hỏi đề bài."
+            ],
+            "structure_table": [
+              {
+                "section": "Mở bài",
+                "content": "Nêu cả 2 luồng quan điểm và khẳng định Thesis: Dù trường học cung cấp môi trường tập thể kỷ luật, giáo dục gia đình vẫn là nền tảng cốt lõi định hình đạo đức cá nhân."
+              },
+              {
+                "section": "Thân bài 1 (Trường học)",
+                "content": "Phân tích giá trị của trường học: (1) Môi trường xã hội thu nhỏ giúp trẻ hòa nhập cộng đồng; (2) Rèn luyện tính kỷ luật thông qua việc tuân thủ nội quy trường lớp."
+              },
+              {
+                "section": "Thân bài 2 (Gia đình - Lập trường)",
+                "content": "Khẳng định vai trò quyết định của cha mẹ: (1) Uốn nắn nhân cách từ những năm tháng đầu đời thông qua tình cảm gia đình; (2) Truyền dạy lòng trắc ẩn, sự trung thực và cách ứng xử qua những câu chuyện và tấm gương hàng ngày."
+              },
+              {
+                "section": "Kết luận",
+                "content": "Khẳng định sự kết hợp giữa nhà trường và gia đình, trong đó gia đình luôn là cái nôi đạo đức đầu tiên và quan trọng nhất."
+              }
+            ]
+          },
+          {
+            "title": "Ưu tiên số 2 — Tinh chỉnh các lỗi collocation nhỏ (Lexical Precision)",
+            "details": [
+              "Thay 'good parts of the community' bằng 'active/productive members of society'.",
+              "Dùng 'parental guidance / home upbringing' thay cho 'one to one lessons at home'.",
+              "Viết tên đầy đủ của danh nhân: 'Professor Ngo Bao Chau'."
+            ]
+          },
+          {
+            "title": "Ưu tiên số 3 — Dùng ngôn ngữ giảm nhẹ (Hedging) để tăng tính học thuật",
+            "details": [
+              "Thay vì khẳng định tuyệt đối 'cannot be the best method', hãy dùng 'may not necessarily suffice on its own'.",
+              "Sửa dấu câu: thêm liên từ 'and' khi liệt kê ('Robin Hood and Cinderella')."
+            ]
+          }
+        ],
+        "rewrite_sample": {
+          "intro": "“While some argue that educational institutions provide the optimal environment for teaching young people civic duties, others believe that this responsibility predominantly lies with parents. Although schools undoubtedly foster discipline and collective consciousness, I firmly maintain that family upbringing plays the foundational role in shaping children into compassionate and conscientious members of society.”",
+          "body1": "“On the one hand, schools serve as a vital microcosm of society where children learn essential social norms. Through standardized rules and structured curricula, educational institutions teach students how to respect authority, follow regulations, and resolve conflicts peacefully—qualities essential for social harmony. Furthermore, daily interactions with peers from diverse socio-economic backgrounds allow young individuals to develop teamwork, tolerance, and empathy. For instance, participating in group projects and civic education programs at schools like Trung Vuong or Vinschool trains pupils to collaborate effectively for common goals, which is crucial for future citizenship.”",
+          "body2": "“Nevertheless, parents exert an even deeper and more enduring influence on a child's moral foundation. Because parents establish the earliest and strongest emotional bonds with their offspring, they are uniquely positioned to instil core virtues during a child's formative years. Unlike formal classroom teaching, moral education at home occurs organically through daily parental role-modelling and bedtime storytelling, such as tales of Robin Hood or Cinderella that champion honesty and compassion. When children observe their parents demonstrating integrity, respect, and charitable deeds firsthand, they are far more likely to internalize these values and mature into upright citizens.”",
+          "conclusion": "“In conclusion, while schools provide an invaluable structured environment for collective discipline, domestic upbringing remains the paramount force in moral education. A collaborative synergy between attentive parenting and institutional schooling represents the most effective formula for cultivating exemplary citizens.”"
+        }
+      },
+      "callout_summary": {
+        "estimated_band": "7.0",
+        "target_band": "8.0",
+        "roadmap": "Bám sát phẩm chất công dân thay vì học thuật → Dùng ngôn ngữ giảm nhẹ học thuật → Nâng cấp bài viết lên Band 8.0"
+      }
+    }
+  ]
+}

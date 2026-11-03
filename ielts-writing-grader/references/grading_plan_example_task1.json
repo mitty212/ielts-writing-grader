@@ -1,0 +1,235 @@
+{
+  "task_type": "Task 1",
+  "task_subtype": "Maps — so sánh khu trung tâm thị trấn năm 1990 và hiện nay (Change over time)",
+  "prompt": "The maps below show a town centre in 1990 and the same town centre today. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "topic_name": "Town Centre 1990 and Today",
+  "task1_key_features": [
+    [
+      "Hạng mục",
+      "Năm 1990",
+      "Hiện nay"
+    ],
+    [
+      "Phía bắc",
+      "Hàng 5 cửa hàng: Newsagent’s, Grocer’s, Baker’s, Butcher’s, Cafe; cạnh đó là Childcare centre",
+      "Một trung tâm thương mại (Shopping mall) thay toàn bộ 5 cửa hàng; Childcare centre giữ nguyên"
+    ],
+    [
+      "Smith Street",
+      "Đường có xe ô tô lưu thông",
+      "Khu đi bộ (pedestrianised), không còn phương tiện giao thông"
+    ],
+    [
+      "Lối sang đường",
+      "Không có vạch qua đường",
+      "Hai lối sang đường (pedestrian crossings): qua Oldfield Street và qua Green Street"
+    ],
+    [
+      "Nhà ở phía nam",
+      "6 ngôi nhà ven Green Street + 1 nhà ở phía đông Oldfield Street",
+      "Các khối chung cư (apartment blocks) thay thế toàn bộ"
+    ],
+    [
+      "Không đổi",
+      "Park, Library, Town Hall, Childcare centre, hai Bank",
+      "Park, Library, Town Hall, Childcare centre, hai Bank"
+    ]
+  ],
+  "task1_coverage_matrix": [
+    [
+      "Đặc điểm",
+      "Hoang Minh",
+      "Thuy Vy",
+      "Thomas"
+    ],
+    [
+      "5 cửa hàng → trung tâm thương mại",
+      "✓",
+      "≈ (thiếu Butcher’s)",
+      "✓"
+    ],
+    [
+      "Childcare centre giữ nguyên",
+      "✓",
+      "✓",
+      "✗"
+    ],
+    [
+      "Park, Library, Town Hall giữ nguyên",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Hai ngân hàng giữ nguyên",
+      "✓",
+      "✓",
+      "✗"
+    ],
+    [
+      "Smith Street: từ có xe thành đi bộ",
+      "✓",
+      "≈",
+      "≈"
+    ],
+    [
+      "Hai lối sang đường mới",
+      "✓",
+      "✓",
+      "✓"
+    ],
+    [
+      "Nhà ở phía nam → chung cư",
+      "✓",
+      "✓",
+      "✓"
+    ]
+  ],
+  "overall_strengths": [
+    "Cả ba bài đều đạt hoặc vượt độ dài tối thiểu 150 từ.",
+    "Có đoạn Overview riêng biệt và nêu được các biến đổi lớn nhất (dãy cửa hàng thành trung tâm thương mại, khu nhà ở thành chung cư).",
+    "Có ý thức nhóm các chi tiết không đổi để mô tả chung, tránh dàn trải vụn vặt."
+  ],
+  "overall_weaknesses": [
+    "Overview chưa bao quát trọn vẹn: Minh và Vy thiếu đề cập đến sự thay đổi giao thông (Smith Street); Thomas thiếu đề cập đến trung tâm thương mại.",
+    "Mô tả Smith Street chưa chính xác: Chưa nêu bật được bản chất 'đường dành cho người đi bộ' (pedestrianised) mà chỉ nói chung chung.",
+    "Lỗi sao chép tên riêng và thuật ngữ: 'newagent's', 'barker's', 'crossing lines', 'children centre' thay vì các thuật ngữ học thuật chuẩn."
+  ],
+  "overall_classroom_suggestions": [
+    "Học thuộc bộ thuật ngữ chuyên dụng cho dạng bài Maps: pedestrianised, pedestrian crossings, commercial amenities, residential blocks, remained intact.",
+    "Cấu trúc Overview chuẩn cho Maps: Câu 1 nêu sự thay đổi lớn nhất về cơ sở hạ tầng; Câu 2 nêu giao thông, nhà ở và các công trình giữ nguyên."
+  ],
+  "model_answer": {
+    "title": "Town Centre 1990 and Today — Model Band 7.5+",
+    "word_count": 192,
+    "paragraphs": [
+      "The maps illustrate the transformation of a town centre between 1990 and the present day.",
+      "Overall, the town centre has undergone substantial modernisation, marked primarily by the replacement of individual traditional shops with a commercial shopping complex, the conversion of residential houses into apartment blocks, and the pedestrianisation of the main thoroughfare. Meanwhile, central civic amenities have remained largely intact.",
+      "In the northern sector, the row of five independent shops comprising a newsagent’s, grocer’s, baker’s, butcher’s and cafe has been demolished to make way for a large shopping mall, whereas the adjacent childcare centre has remained unchanged. To the south, the individual houses situated along Green Street and Oldfield Street have been replaced by multi-storey apartment blocks.",
+      "Regarding transportation, Smith Street has been completely pedestrianised, closing the area to vehicular traffic. Furthermore, two pedestrian crossings have been introduced: one across Oldfield Street linking the town hall with a bank, and another connecting the town hall area across Green Street to the new apartment blocks. The central recreational park, public library, town hall, and two banks have stayed unchanged throughout the period."
+    ]
+  },
+  "students": [
+    {
+      "name": "Hoang Minh",
+      "word_count": "191",
+      "scores": {
+        "C1": 7.0,
+        "C2": 6.5,
+        "C3": 6.5,
+        "C4": 6.5,
+        "TB": 6.63,
+        "BAND": 6.5
+      },
+      "score_summary_table": [
+        {
+          "criterion": "Task Achievement",
+          "band": "7.0",
+          "comment": "Bao quát đầy đủ các đặc điểm chính; overview rõ; chi tiết chính xác."
+        },
+        {
+          "criterion": "Coherence & Cohesion",
+          "band": "6.5",
+          "comment": "Bố cục logic nhưng cần tách đoạn thân bài rõ hơn giữa phía bắc và phía nam."
+        },
+        {
+          "criterion": "Lexical Resource",
+          "band": "6.5",
+          "comment": "Từ vựng Maps tốt, paraphrase hợp lý (coffee shop); một vài lỗi chính tả."
+        },
+        {
+          "criterion": "Grammatical Range & Accuracy",
+          "band": "6.5",
+          "comment": "Cấu trúc bị động và phân tử tốt; còn lỗi mạo từ trước tên đường."
+        }
+      ],
+      "general_comment": "Bài viết nổi bật nhất trong 3 bài. Hoang Minh nắm chắc phương pháp mô tả bản đồ, nhận diện đầy đủ các công trình thay đổi và không thay đổi. Để lên Band 7.0+, cần hoàn thiện câu Overview đủ 3 nhóm thông tin và làm sạch triệt để lỗi mạo từ.",
+      "original_essay_marked": [
+        [
+          {
+            "text": "The maps illustrate the transformation of a town centre from 1990 to the present day. Overall, ",
+            "highlight": "none"
+          },
+          {
+            "text": "the town centre witnessed significant modernisation with the replacement of traditional shops with a mall",
+            "highlight": "good"
+          },
+          {
+            "text": ", while ",
+            "highlight": "none"
+          },
+          {
+            "text": "public facilities in the central area remained unchanged",
+            "highlight": "good"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ]
+      ],
+      "criteria_analysis": {
+        "criterion1": {
+          "title": "Task Achievement — Band 7.0",
+          "strengths": [
+            "✓ Nhận diện đầy đủ 5 cửa hàng thành mall, đường Smith Street và các công trình công cộng giữ nguyên."
+          ],
+          "weaknesses": [
+            "✗ Overview còn thiếu vế giao thông đi bộ."
+          ]
+        },
+        "criterion2": {
+          "title": "Coherence & Cohesion — Band 6.5",
+          "strengths": [
+            "✓ Trình tự mô tả mạch lạc từ bắc xuống nam."
+          ],
+          "weaknesses": [
+            "✗ Cần chia 2 đoạn thân bài rõ ràng hơn."
+          ]
+        },
+        "criterion3": {
+          "title": "Lexical Resource — Band 6.5",
+          "praises": [
+            "“transformation”, “coffee shop”, “demolished” dùng rất chuẩn."
+          ],
+          "corrections_table": [
+            {
+              "error": "“newagent’s”",
+              "fix": "“newsagent’s”",
+              "explanation": "Lỗi chính tả sao chép tên cửa hàng."
+            }
+          ]
+        },
+        "criterion4": {
+          "title": "Grammatical Range & Accuracy — Band 6.5",
+          "praises": [
+            "Dùng bị động thì quá khứ đơn chuẩn xác."
+          ],
+          "corrections_table": [
+            {
+              "error": "“in the Smith Street”",
+              "fix": "“on Smith Street”",
+              "explanation": "Không dùng mạo từ 'the' trước tên đường riêng; giới từ đúng là 'on'."
+            }
+          ]
+        }
+      },
+      "improvement_plan": {
+        "target_band": "7.0",
+        "priorities": [
+          {
+            "title": "Bổ sung vế giao thông vào Overview",
+            "details": [
+              "Gom vế Smith Street pedestrianised vào câu 2 của overview."
+            ]
+          }
+        ]
+      },
+      "callout_summary": {
+        "estimated_band": "6.5",
+        "target_band": "7.0",
+        "roadmap": "Viết lại overview đủ 3 nhóm → Tách đoạn thân bài → Làm sạch mạo từ tên đường"
+      }
+    }
+  ]
+}

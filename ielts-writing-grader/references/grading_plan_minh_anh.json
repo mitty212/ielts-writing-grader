@@ -1,0 +1,483 @@
+{
+  "task_type": "Task 2",
+  "task_subtype": "Causes & Solutions (Two-part question) — Private Cars & Transport Issues",
+  "prompt": "People often rely on their cars for daily, work-related, and personal travel. However, the increasing number of private cars has led to several problems. What are these problems, and what measures can be taken to discourage people from using their cars?",
+  "topic_name": "Private Car Reliance: Problems and Solutions",
+  "overall_strengths": [
+    "Bài viết đạt độ dài 272 từ (vượt yêu cầu tối thiểu 250 từ) với cấu trúc 4 đoạn phân chia rõ rệt giữa nguyên nhân/tác hại và giải pháp.",
+    "Nhận diện được các vấn đề cốt lõi của việc bùng nổ xe cá nhân: ùn tắc giao thông, khí thải ô nhiễm môi trường và bệnh lý đường hô hấp.",
+    "Đưa ra được hai nhóm giải pháp thiết thực: mở rộng mạng lưới giao thông công cộng (xe buýt, tàu điện) và xây dựng làn đường riêng cho xe đạp."
+  ],
+  "overall_weaknesses": [
+    "Kết luận bỏ quên vế giải pháp: Đề bài hỏi cả 'Problems' và 'Measures', nhưng đoạn kết chỉ tóm tắt lại tác hại mà hoàn toàn không nhắc gì đến các giải pháp đã đề xuất ở thân bài 2.",
+    "Dùng sai từ vựng nghiêm trọng gây đảo ngược nghĩa logic: dùng 'eliminates' (triệt tiêu, loại bỏ) thay vì 'emits' (phát thải) khi nói về động cơ ô tô xả khí CO2.",
+    "Lập luận ở thân bài 1 còn luẩn quẩn và ngây ngô: mô tả cơ chế ô nhiễm theo kiểu 'khí thải ra rồi trộn với các khí khác nên gây ô nhiễm'; giải pháp chưa tập trung vào việc 'discourage' (ngăn chặn/hạn chế) việc lái xe như đánh thuế, thu phí tắc nghẽn hay hạn chế đỗ xe."
+  ],
+  "overall_classroom_suggestions": [
+    "Luôn kiểm tra tính cân đối của câu Kết luận: với đề Two-part question, câu kết bài bắt buộc phải tóm tắt cả Vấn đề lẫn Giải pháp.",
+    "Nâng cấp tư duy lập luận chính sách: để 'discourage' (làm nản lòng người lái xe), chính phủ cần kết hợp cả chính sách 'Củ cà rốt' (giao thông công cộng tiện lợi) và 'Cây gậy' (phí tắc nghẽn, tăng giá xăng, hạn chế chỗ đỗ xe).",
+    "Trau dồi cụm từ học thuật chuẩn xác cho chủ đề Giao thông & Môi trường: daily commute, vehicle emissions, traffic congestion, dedicated cycling lanes."
+  ],
+  "students": [
+    {
+      "name": "Minh Anh",
+      "word_count": "272",
+      "scores": {
+        "C1": 5.5,
+        "C2": 5.5,
+        "C3": 5.0,
+        "C4": 5.0,
+        "TB": 5.25,
+        "BAND": 5.5
+      },
+      "score_summary_table": [
+        {
+          "criterion": "Task Response",
+          "band": "5.5",
+          "comment": "Trả lời được cả 2 vế nhưng kết bài bỏ quên giải pháp; lập luận thân bài 1 còn vụn và luẩn quẩn."
+        },
+        {
+          "criterion": "Coherence & Cohesion",
+          "band": "5.5",
+          "comment": "Bố cục 4 đoạn rõ, nhưng liên kết câu trong đoạn máy móc (Therefore, Thus, Moreover lặp liên tiếp)."
+        },
+        {
+          "criterion": "Lexical Resource",
+          "band": "5.0",
+          "comment": "Dùng sai từ nghiêm trọng ('eliminates' thay vì 'emits'); nhiều cụm dịch thô ('moving', 'driving bikes')."
+        },
+        {
+          "criterion": "Grammatical Range & Accuracy",
+          "band": "5.0",
+          "comment": "Sai thì động từ ở mở bài; sai giới từ 'suffer from'; cấu trúc câu vụn và thiếu tính linh hoạt."
+        }
+      ],
+      "general_comment": "Bài viết đạt độ dài 272 từ và có ý thức bố cục 4 đoạn rõ ràng theo đúng hai câu hỏi của đề bài. Tuy nhiên, bài viết đang dừng ở mức Band 5.5 do ba điểm hạn chế lớn: (1) Kết luận quên tóm tắt giải pháp; (2) Lỗi dùng từ nghiêm trọng làm đảo ngược nghĩa (dùng 'eliminates' thay vì 'emits'); (3) Các giải pháp mới chỉ dừng ở mức khuyến khích thay thế chứ chưa thực sự trả lời trọng tâm 'discourage people from using cars' (làm nản lòng người đi xe bằng chế tài kinh tế hay quy hoạch). Mục tiêu hợp lý tiếp theo: Band 6.0 – 6.5.",
+      "original_essay_marked": [
+        [
+          {
+            "text": "Nowadays, the need for using cars for ",
+            "highlight": "none"
+          },
+          {
+            "text": "everyday work",
+            "highlight": "error"
+          },
+          {
+            "text": ", ",
+            "highlight": "none"
+          },
+          {
+            "text": "individual daily moving",
+            "highlight": "error"
+          },
+          {
+            "text": ", and personal travel is increasing. ",
+            "highlight": "none"
+          },
+          {
+            "text": "This caused several problems",
+            "highlight": "error"
+          },
+          {
+            "text": " in daily life, ",
+            "highlight": "none"
+          },
+          {
+            "text": "specifically in traffic jams",
+            "highlight": "error"
+          },
+          {
+            "text": ", air pollution, and people's health.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "With considering the numbers of cars",
+            "highlight": "error"
+          },
+          {
+            "text": " used for just picking up and dropping off children and students every day, ",
+            "highlight": "none"
+          },
+          {
+            "text": "one car is maybe convenient",
+            "highlight": "error"
+          },
+          {
+            "text": ". However, many cars used at the same time can lead to traffic jams, as in one road, there are not only cars using for the given purpose but also ",
+            "highlight": "none"
+          },
+          {
+            "text": "cars driven by different drivers with different purposes",
+            "highlight": "error"
+          },
+          {
+            "text": ". Waiting for a long time can make ",
+            "highlight": "none"
+          },
+          {
+            "text": "drivers and people waste a lot of time and money",
+            "highlight": "error"
+          },
+          {
+            "text": ". When people use a car, the engine of the car ",
+            "highlight": "none"
+          },
+          {
+            "text": "eliminates numerous CO2 gases",
+            "highlight": "error"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "Therefore, these gases will mix with other gases. Thus, when this phenomenon happens, air pollution is caused",
+            "highlight": "error"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "Emissions from this pollution worsen air quality and climate",
+            "highlight": "error"
+          },
+          {
+            "text": ". Moreover, people can ",
+            "highlight": "none"
+          },
+          {
+            "text": "suffer health problems",
+            "highlight": "error"
+          },
+          {
+            "text": ", especially ",
+            "highlight": "none"
+          },
+          {
+            "text": "respiratory obstruction",
+            "highlight": "good"
+          },
+          {
+            "text": " when accidentally inhaling this toxic gas.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "There are solutions to solve these problems",
+            "highlight": "error"
+          },
+          {
+            "text": ". Instead of using ",
+            "highlight": "none"
+          },
+          {
+            "text": "just cars",
+            "highlight": "error"
+          },
+          {
+            "text": ", individuals can use ",
+            "highlight": "none"
+          },
+          {
+            "text": "public transport like buses and metros",
+            "highlight": "good"
+          },
+          {
+            "text": ", and this solution can save people's money ",
+            "highlight": "none"
+          },
+          {
+            "text": "everyday",
+            "highlight": "error"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "Then, the emissions from the cars can be decreased and thus can reduce the risk of air pollution",
+            "highlight": "error"
+          },
+          {
+            "text": ". Moreover, ",
+            "highlight": "none"
+          },
+          {
+            "text": "governments of a country can build a lane just for driving bikes",
+            "highlight": "error"
+          },
+          {
+            "text": " and encourage citizens to use bikes to enhance people's health.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "In conclusion, ",
+            "highlight": "none"
+          },
+          {
+            "text": "overusing cars can be a negative habit",
+            "highlight": "error"
+          },
+          {
+            "text": ". As people use cars day to day and for different purposes, ",
+            "highlight": "none"
+          },
+          {
+            "text": "the consequences follow",
+            "highlight": "error"
+          },
+          {
+            "text": ", including ",
+            "highlight": "none"
+          },
+          {
+            "text": "traffic congestion",
+            "highlight": "good"
+          },
+          {
+            "text": ", ",
+            "highlight": "none"
+          },
+          {
+            "text": "the pollution of air",
+            "highlight": "error"
+          },
+          {
+            "text": ", and health problems for people.",
+            "highlight": "none"
+          }
+        ]
+      ],
+      "criteria_analysis": {
+        "criterion1": {
+          "title": "Task Response — Band 5.5",
+          "strengths": [
+            "✓ Trả lời được cả hai phần của đề bài: nêu được 3 vấn đề (kẹt xe, ô nhiễm, bệnh hô hấp) và 2 giải pháp (phương tiện công cộng, đường xe đạp).",
+            "✓ Bố cục 4 đoạn chuẩn mực: Thân bài 1 dành cho Vấn đề, Thân bài 2 dành cho Giải pháp.",
+            "✓ Độ dài 272 từ, đảm bảo thời gian làm bài và đạt yêu cầu tối thiểu 250 từ."
+          ],
+          "weaknesses": [
+            "✗ Kết luận thiếu sót (Lỗi cấu trúc): Kết luận chỉ nhắc lại tác hại của việc lạm dụng xe hơi mà hoàn toàn quên tóm tắt các giải pháp. Ở bài Two-part question, kết bài phải bao quát cả hai vế.",
+            "✗ Lập luận đoạn 1 luẩn quẩn và ngô nghê: Câu giải thích cơ chế ô nhiễm ('engine eliminates CO2 -> mix with other gases -> air pollution is caused') quá vụn vặt và thiếu tính học thuật.",
+            "✗ Giải pháp chưa chạm đúng trọng tâm 'discourage': Đề yêu cầu biện pháp 'làm nản lòng / ngăn cản người đi ô tô', nhưng học viên chỉ nêu phương án thay thế tích cực mà chưa có biện pháp chế tài (phí ùn tắc, thuế nhiên liệu, thu hẹp làn xe hơi)."
+          ],
+          "special_notes": [
+            "⚠ Lưu ý về dạng Two-part Question: Đoạn kết luận bắt buộc phải tổng kết cả Vấn đề và Giải pháp trong 2 vế song song, không được bỏ quên vế nào."
+          ]
+        },
+        "criterion2": {
+          "title": "Coherence & Cohesion — Band 5.5",
+          "strengths": [
+            "✓ Phân đoạn rõ ràng, rành mạch giữa các phần của bài viết.",
+            "✓ Có sử dụng câu chủ đề ở đầu các đoạn thân bài để định hướng người đọc."
+          ],
+          "weaknesses": [
+            "✗ Lạm dụng từ nối máy móc: Trong đoạn 2, các từ liên kết 'Therefore', 'Thus', 'Moreover' xuất hiện dồn dập ở đầu 3 câu ngắn liên tiếp.",
+            "✗ Câu mở đoạn 2 diễn đạt rất gượng gạo: 'With considering the numbers of cars used for just picking up and dropping off... one car is maybe convenient.'",
+            "✗ Câu chủ đề đoạn 3 quá cộc lốc và cơ học: 'There are solutions to solve these problems.' Cần viết câu khái quát có chứa nội dung học thuật hơn."
+          ]
+        },
+        "criterion3": {
+          "title": "Lexical Resource — Band 5.0",
+          "praises": [
+            "“traffic congestion”, “air quality and climate”, “respiratory obstruction” — các thuật ngữ chủ đề phù hợp và đáng khích lệ.",
+            "“public transport like buses and metros” — nêu tên cụ thể các phương tiện công cộng."
+          ],
+          "corrections_table": [
+            {
+              "error": "“individual daily moving”",
+              "fix": "“daily commute / daily commuting”",
+              "explanation": "Dịch thô từ tiếng Việt; 'moving' mang nghĩa chuyển nhà/di dời đồ đạc."
+            },
+            {
+              "error": "“everyday work”",
+              "fix": "“daily commutes to work”",
+              "explanation": "Everyday là tính từ thường đứng trước danh từ chỉ sự phổ thông; dùng ở đây chưa tự nhiên."
+            },
+            {
+              "error": "“specifically in traffic jams”",
+              "fix": "“namely traffic congestion”",
+              "explanation": "Sai cụm giới từ 'specifically in'; 'traffic jams' là từ khẩu ngữ, nên dùng 'traffic congestion'."
+            },
+            {
+              "error": "“With considering”",
+              "fix": "“When considering / Considering”",
+              "explanation": "Cụm 'with considering' sai cấu trúc collocation và ngữ pháp."
+            },
+            {
+              "error": "“one car is maybe convenient”",
+              "fix": "“a single car might seem convenient”",
+              "explanation": "Dùng 'maybe' trong văn cảnh này mang tính khẩu ngữ, thiếu tính học thuật."
+            },
+            {
+              "error": "“eliminates numerous CO2 gases”",
+              "fix": "“emits substantial amounts of CO2 / greenhouse gases”",
+              "explanation": "Sai nghĩa tai hại: 'eliminate' là loại bỏ/tiêu diệt, ngược với 'emit' (thải ra); CO2 là khí đơn lẻ, không dùng 'gases'."
+            },
+            {
+              "error": "“mix with other gases”",
+              "fix": "“accumulate in the atmosphere”",
+              "explanation": "Diễn đạt ngô nghê, không phản ánh đúng cơ chế ô nhiễm môi trường học thuật."
+            },
+            {
+              "error": "“this phenomenon happens”",
+              "fix": "“this process occurs”",
+              "explanation": "Ô nhiễm không khí do con người không phải là một hiện tượng tự nhiên 'phenomenon happens'."
+            },
+            {
+              "error": "“Emissions from this pollution”",
+              "fix": "“Vehicular emissions”",
+              "explanation": "Sai quan hệ nhân quả: khí thải gây ra ô nhiễm, chứ không phải ô nhiễm sinh ra khí thải."
+            },
+            {
+              "error": "“just cars”",
+              "fix": "“private vehicles / passenger cars”",
+              "explanation": "Văn phong khẩu ngữ; nên dùng từ mang tính học thuật."
+            },
+            {
+              "error": "“driving bikes”",
+              "fix": "“riding bicycles / cycling”",
+              "explanation": "Sai collocation cơ bản: xe đạp dùng động từ 'ride' hoặc 'cycle', không dùng 'drive'."
+            },
+            {
+              "error": "“overusing cars can be a negative habit”",
+              "fix": "“excessive reliance on private vehicles poses serious threats”",
+              "explanation": "Việc phụ thuộc vào xe hơi là vấn đề quy hoạch và xã hội, không thể gọi đơn thuần là 'thói quen xấu'."
+            },
+            {
+              "error": "“the pollution of air”",
+              "fix": "“air pollution”",
+              "explanation": "Danh từ ghép chuẩn trong tiếng Anh là 'air pollution'."
+            }
+          ]
+        },
+        "criterion4": {
+          "title": "Grammatical Range & Accuracy — Band 5.0",
+          "praises": [
+            "Nỗ lực sử dụng cấu trúc mệnh đề quan hệ rút gọn: 'cars driven by different drivers' và cấu trúc 'not only... but also...'."
+          ],
+          "corrections_table": [
+            {
+              "error": "“This caused several problems”",
+              "fix": "“This has caused / causes several problems”",
+              "explanation": "Sai thì động từ: sự việc đang diễn ra ở hiện tại, không dùng quá khứ đơn 'caused'."
+            },
+            {
+              "error": "“the numbers of cars”",
+              "fix": "“the number of cars”",
+              "explanation": "The number of luôn chia số ít khi nói về số lượng một loại phương tiện."
+            },
+            {
+              "error": "“cars using for the given purpose but also cars driven by different drivers with different purposes”",
+              "fix": "“cars used for school runs but also vehicles driven by commuters for various reasons”",
+              "explanation": "Chia sai phân từ chủ động 'cars using for' -> 'cars used for'; lặp từ gượng gạo ('different drivers with different purposes')."
+            },
+            {
+              "error": "“make drivers and people waste a lot of time and money”",
+              "fix": "“leads to a tremendous waste of time and money for commuters”",
+              "explanation": "Diễn đạt 'drivers and people' bị trùng lặp; 'make ... waste' mang văn phong nói."
+            },
+            {
+              "error": "“air pollution is caused”",
+              "fix": "“severe air pollution ensues”",
+              "explanation": "Câu bị động ngắn cụt, thiếu tự nhiên."
+            },
+            {
+              "error": "“people can suffer health problems”",
+              "fix": "“people can suffer from health problems”",
+              "explanation": "Động từ 'suffer' khi đi với bệnh tật/vấn đề sức khỏe bắt buộc có giới từ 'from'."
+            },
+            {
+              "error": "“There are solutions to solve these problems”",
+              "fix": "“Several viable measures can be implemented to address these issues”",
+              "explanation": "Câu quá ngắn cụt, lặp gốc từ 'solutions to solve'."
+            },
+            {
+              "error": "“save people's money everyday”",
+              "fix": "“reduce commuters' daily travel expenses”",
+              "explanation": "Sai chính tả ngữ pháp: trạng từ chỉ thời gian phải viết tách 'every day', còn 'everyday' là tính từ."
+            },
+            {
+              "error": "“Then, the emissions from the cars can be decreased and thus can reduce the risk of air pollution”",
+              "fix": "“Consequently, vehicle emissions would decline, thereby mitigating the risk of air pollution”",
+              "explanation": "Từ nối 'Then' không trang trọng; vế sau 'thus can reduce' thiếu chủ ngữ đồng nhất."
+            },
+            {
+              "error": "“governments of a country can build a lane just for driving bikes”",
+              "fix": "“national governments should construct dedicated cycling lanes”",
+              "explanation": "Danh từ số nhiều 'governments' ghép với 'a country' số ít; 'a lane just for driving bikes' quá ngây ngô."
+            },
+            {
+              "error": "“As people use cars day to day ..., the consequences follow”",
+              "fix": "“Continued dependence on cars inevitably leads to serious consequences”",
+              "explanation": "Cấu trúc 'the consequences follow' mang tính dịch thô từ tiếng Việt."
+            }
+          ]
+        }
+      },
+      "improvement_plan": {
+        "target_band": "6.5",
+        "priorities": [
+          {
+            "title": "Ưu tiên số 1 — Viết câu kết luận trọn vẹn & Bổ sung giải pháp chế tài (Task Response)",
+            "details": [
+              "Đoạn kết luận phải tóm tắt cả hai câu trả lời: (1) Ô tô gây tắc nghẽn và ô nhiễm; (2) Cần giải pháp kết hợp giữa nâng cấp giao thông công cộng và áp dụng phí tắc nghẽn.",
+              "Bổ sung biện pháp 'discourage' điển hình: áp dụng phí tắc nghẽn nội đô (congestion charges) và tăng phí đỗ xe (parking fees)."
+            ],
+            "structure_table": [
+              {
+                "section": "Mở bài",
+                "content": "Câu 1: Paraphrase sự phụ thuộc vào ô tô. Câu 2: Nêu rõ bài viết sẽ phân tích các hệ lụy (tắc đường, ô nhiễm) và đề xuất giải pháp hạn chế."
+              },
+              {
+                "section": "Thân bài 1 (Problems)",
+                "content": "Phân tích 2 hệ lụy chính: (1) Ùn tắc giao thông vào giờ cao điểm; (2) Ô nhiễm môi trường không khí và bệnh lý đường hô hấp do khí thải CO2."
+              },
+              {
+                "section": "Thân bài 2 (Solutions)",
+                "content": "Đề xuất 2 nhóm giải pháp: (1) Khuyến khích: Mở rộng xe buýt, metro, làn xe đạp; (2) Chế tài (discourage): Thu phí tắc nghẽn nội đô, tăng phí đỗ xe."
+              },
+              {
+                "section": "Kết luận",
+                "content": "Tóm tắt cả tác hại lẫn giải pháp trong 1-2 câu mạch lạc, khẳng định tương lai giao thông xanh."
+              }
+            ]
+          },
+          {
+            "title": "Ưu tiên số 2 — Sửa triệt để các lỗi dùng từ sai nghĩa và dịch thô (Lexical Resource)",
+            "details": [
+              "Học thuộc và phân biệt: emit (thải ra) vs eliminate (loại bỏ). Tuyệt đối không nhầm lẫn hai từ này.",
+              "Thay các cụm dịch thô: 'moving' -> 'daily commute'; 'driving bikes' -> 'cycling / riding bicycles'; 'just cars' -> 'private vehicles'."
+            ]
+          },
+          {
+            "title": "Ưu tiên số 3 — Làm sạch lỗi ngữ pháp nền tảng & Đa dạng câu phức (Grammar)",
+            "details": [
+              "Dùng đúng thì Hiện tại hoàn thành / Hiện tại đơn khi nói về xu hướng chung (This has caused, không dùng caused).",
+              "Sửa các lỗi cố hữu: suffer from health problems; every day (trạng từ) vs everyday (tính từ).",
+              "Tích hợp các cấu trúc câu phức học thuật: mệnh đề phân từ (thereby reducing...), câu điều kiện hoặc mệnh đề nhượng bộ."
+            ]
+          }
+        ],
+        "rewrite_sample": {
+          "intro": "“Nowadays, an increasing number of people rely on private cars for their daily commute and personal travel. While this trend offers personal convenience, it has generated severe problems, notably severe traffic congestion and deteriorating air quality. To address these issues, governments must implement a combination of public transit enhancements and financial disincentives.”",
+          "body1": "“The proliferation of private vehicles leads to two major problems. Firstly, roads frequently become gridlocked during peak hours, particularly around schools and business districts, resulting in immense economic losses and wasted commuter time. Secondly, automotive engines emit vast quantities of carbon dioxide and other toxic pollutants into the atmosphere. These vehicular emissions not only accelerate global warming but also cause acute respiratory diseases among urban residents.”",
+          "body2": "“To curb excessive car usage, authorities should adopt both supportive and restrictive measures. On the one hand, substantial investments should be poured into affordable, reliable public transit networks such as electric buses and urban rail, alongside dedicated cycling lanes to encourage active travel. On the other hand, governments should introduce congestion charges in city centres and increase parking fees, thereby making private driving significantly less attractive and financially burdensome.”",
+          "conclusion": "“In conclusion, while private cars provide flexibility, their overuse causes intolerable traffic jams and hazardous environmental pollution. By upgrading public transport and levying congestion fees on private motorists, cities can effectively discourage car dependence and foster a healthier living environment.”"
+        }
+      },
+      "callout_summary": {
+        "estimated_band": "5.5",
+        "target_band": "6.5",
+        "roadmap": "Bao quát vế giải pháp ở kết luận → Sửa lỗi dùng sai từ (emit vs eliminate) → Đưa chế tài kinh tế hạn chế ô tô"
+      }
+    }
+  ]
+}

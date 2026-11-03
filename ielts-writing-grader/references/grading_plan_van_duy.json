@@ -1,0 +1,465 @@
+{
+  "task_type": "Task 2",
+  "task_subtype": "Opinion Essay (To what extent do you agree or disagree?)",
+  "prompt": "Some people say that we do not need printed newspapers anymore. To what extent do you agree or disagree?",
+  "topic_name": "The Necessity of Printed Newspapers in the Digital Age",
+  "overall_strengths": [
+    "Bài viết đạt độ dài 260 từ (vượt yêu cầu tối thiểu 250 từ), mạch lập luận đi đúng hướng của dạng bài Agree/Disagree: thừa nhận ưu thế của báo mạng nhưng bảo vệ tính tất yếu của báo in.",
+    "Sử dụng được một số từ vựng học thuật đắt giá: 'profusion of digital platforms', 'instantaneously', 'indispensable', 'untrustworthy material', 'vetted before release', 'detrimental impact'.",
+    "Luận điểm về tính thẩm định và trách nhiệm biên tập (editorial vetting & fact-checking) của báo in là luận cứ trung tâm rất sắc bén, đánh trúng vấn đề tin giả (fake news) trên internet hiện nay."
+  ],
+  "overall_weaknesses": [
+    "Mở bài thiếu tuyên bố lập trường rõ ràng (Missing Thesis Statement): Tác giả dùng 2 câu cuối mở bài để viết câu sườn học vẹt ('In the following paragraphs, I will clarify my position...') thay vì trực tiếp khẳng định mình 'disagree' với quan điểm đề bài.",
+    "Bố cục 5 đoạn bị xé vụn (Fragmented Structure): Thân bài bảo vệ báo in bị chia cắt thành 2 đoạn quá ngắn (đoạn 3 chỉ có 56 từ, đoạn 4 chỉ có 42 từ). Luận điểm 'đọc báo mạng hại mắt' ở đoạn 4 là một ý phụ rất yếu, lạc lõng khỏi trọng tâm báo chí học thuật.",
+    "Lỗi dùng từ sai ngữ nghĩa nghiêm trọng: Dùng nhầm 'physical diaries' (sổ nhật ký cá nhân) để chỉ báo in, 'online journals' (tạp chí khoa học/nhật ký) để chỉ báo mạng, và dùng khẩu ngữ 'For starters' ở đầu thân bài."
+  ],
+  "overall_classroom_suggestions": [
+    "Tuyên bố Thesis dứt khoát ngay tại Mở bài: Trả lời thẳng 'I strongly disagree with this assertion because...' để tạo lập trường rõ ràng xuyên suốt từ đầu đến cuối.",
+    "Gom các luận điểm bổ trợ vào 1 đoạn thân bài hoàn chỉnh (khoảng 90-100 từ): Thay thế ý 'hại mắt' bằng ý 'giá trị lưu trữ và thói quen đọc sâu, không bị xao nhãng bởi quảng cáo mạng'.",
+    "Kiểm soát tính chính xác của từ vựng trước khi paraphrase: Báo in là 'printed newspapers / print publications / print media', tuyệt đối không dùng 'diaries'."
+  ],
+  "students": [
+    {
+      "name": "Văn Duy",
+      "word_count": "260",
+      "scores": {
+        "C1": 6.0,
+        "C2": 6.0,
+        "C3": 6.0,
+        "C4": 6.5,
+        "TB": 6.13,
+        "BAND": 6.0
+      },
+      "score_summary_table": [
+        {
+          "criterion": "Task Response",
+          "band": "6.0",
+          "comment": "Lập trường tổng thể rõ nhưng mở bài né tránh tuyên bố trực tiếp; đoạn 4 luận điểm hại mắt còn yếu và ngắn vụn."
+        },
+        {
+          "criterion": "Coherence & Cohesion",
+          "band": "6.0",
+          "comment": "Mở bài lặp từ nối chỉ kết quả ('As a result... As a consequence'); tách thân bài 2 và 3 làm mạch văn bị vụn."
+        },
+        {
+          "criterion": "Lexical Resource",
+          "band": "6.0",
+          "comment": "Có vốn từ học thuật khá ấn tượng (vetted, indispensable), nhưng dùng sai từ nghiêm trọng ('diaries' thay cho báo in)."
+        },
+        {
+          "criterion": "Grammatical Range & Accuracy",
+          "band": "6.5",
+          "comment": "Cấu trúc câu đa dạng, câu phức chuẩn xác, kiểm soát tốt các thì và mệnh đề quan hệ."
+        }
+      ],
+      "general_comment": "Bài viết của Văn Duy đạt mức Band 6.0 (điểm trung bình 6.13, tiệm cận Band 6.5). Bài có nhiều điểm sáng đáng khen: vốn từ học thuật có chiều sâu ('profusion', 'indispensable', 'vetted before release') và năng lực viết câu phức chắc chắn. Tuy nhiên, bài viết bị giữ chân ở Band 6.0 do ba lý do: (1) Mở bài không nêu rõ lập trường agree hay disagree mà dùng câu sườn học vẹt; (2) Chia đoạn thân bài 2 và 3 bị ngắn vụn; (3) Nhầm lẫn từ vựng nghiêm trọng khi dùng 'diaries' (sổ nhật ký) để thay cho báo in. Mục tiêu tiếp theo: Band 6.5 – 7.0.",
+      "original_essay_marked": [
+        [
+          {
+            "text": "Technology advancement",
+            "highlight": "error"
+          },
+          {
+            "text": " has resulted in a ",
+            "highlight": "none"
+          },
+          {
+            "text": "profusion of digital platforms",
+            "highlight": "good"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "As a result",
+            "highlight": "error"
+          },
+          {
+            "text": ", the vast majority of people believe that daily newspapers are no longer necessary. ",
+            "highlight": "none"
+          },
+          {
+            "text": "As a consequence, in my opinion, an up-to-date broadcast is now available on electronic devices",
+            "highlight": "error"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "In the following paragraphs, I will clarify my position. There are numerous reasons to support this notion",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "Nowadays, getting news on the internet provides a number of advantages. ",
+            "highlight": "none"
+          },
+          {
+            "text": "For starters",
+            "highlight": "error"
+          },
+          {
+            "text": ", ",
+            "highlight": "none"
+          },
+          {
+            "text": "internet papers",
+            "highlight": "error"
+          },
+          {
+            "text": " keep readers up to date faster than ",
+            "highlight": "none"
+          },
+          {
+            "text": "traditional periodicals",
+            "highlight": "error"
+          },
+          {
+            "text": ". For example, we can acquire global updates ",
+            "highlight": "none"
+          },
+          {
+            "text": "instantaneously on the internet",
+            "highlight": "good"
+          },
+          {
+            "text": ", but it would take publications a few days to investigate and ",
+            "highlight": "none"
+          },
+          {
+            "text": "publish the data",
+            "highlight": "error"
+          },
+          {
+            "text": " officially. Second, the internet allows users to access ",
+            "highlight": "none"
+          },
+          {
+            "text": "free material",
+            "highlight": "error"
+          },
+          {
+            "text": " and the most up-to-date information without having to purchase ",
+            "highlight": "none"
+          },
+          {
+            "text": "physical newspapers",
+            "highlight": "good"
+          },
+          {
+            "text": " from stores, allowing them to save money and time.",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "On the other hand, I believe that ",
+            "highlight": "none"
+          },
+          {
+            "text": "physical diaries",
+            "highlight": "error"
+          },
+          {
+            "text": " are still ",
+            "highlight": "none"
+          },
+          {
+            "text": "indispensable",
+            "highlight": "good"
+          },
+          {
+            "text": " for a variety of reasons. The first is that they are one of the most ",
+            "highlight": "none"
+          },
+          {
+            "text": "reliable sources of information",
+            "highlight": "good"
+          },
+          {
+            "text": ". Because anybody may create and upload articles on the internet, they may include ",
+            "highlight": "none"
+          },
+          {
+            "text": "untrustworthy material",
+            "highlight": "good"
+          },
+          {
+            "text": " that has not been ",
+            "highlight": "none"
+          },
+          {
+            "text": "adequately vetted before release",
+            "highlight": "good"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "Furthermore, ",
+            "highlight": "none"
+          },
+          {
+            "text": "online journals",
+            "highlight": "error"
+          },
+          {
+            "text": " frequently have a ",
+            "highlight": "none"
+          },
+          {
+            "text": "detrimental impact",
+            "highlight": "good"
+          },
+          {
+            "text": " on people's health. For example, ",
+            "highlight": "none"
+          },
+          {
+            "text": "if we spend many hours each day reading online news on our mobile phone or computer, this might have a negative influence, particularly on our eyes",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "In conclusion, while individuals are increasingly using ",
+            "highlight": "none"
+          },
+          {
+            "text": "alternative media",
+            "highlight": "good"
+          },
+          {
+            "text": " to acquire worldwide information, this does not indicate that there is no longer a ",
+            "highlight": "none"
+          },
+          {
+            "text": "vital demand for physical press",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ]
+      ],
+      "criteria_analysis": {
+        "criterion1": {
+          "title": "Task Response — Band 6.0",
+          "strengths": [
+            "✓ Lập trường tổng thể nhất quán: Bài viết bảo vệ quan điểm báo in vẫn không thể thiếu (indispensable) trong kỷ nguyên số.",
+            "✓ Luận điểm phản biện sắc sảo: Nhấn mạnh tính thẩm định (editorial vetting) và kiểm chứng nguồn tin của báo in, đối lập với tin tức chưa kiểm duyệt trên mạng xã hội.",
+            "✓ Độ dài 260 từ, hoàn thành đầy đủ yêu cầu về dung lượng bài viết Task 2."
+          ],
+          "weaknesses": [
+            "✗ Mở bài né tránh trả lời câu hỏi trực tiếp: Câu cuối mở bài dùng 'In the following paragraphs, I will clarify my position...' mà không tuyên bố rõ mình Agree hay Disagree. Ở Band 7, lập trường phải được khẳng định dứt khoát ngay từ đầu.",
+            "✗ Luận điểm đoạn 4 quá non nớt và gượng gạo: Việc đưa lý lẽ 'đọc báo mạng gây hại mắt' vào bài nghị luận báo chí là rất yếu, mang cảm tính cá nhân và không giải quyết được câu hỏi cốt lõi của đề bài.",
+            "✗ Thiếu các dẫn chứng và ví dụ cụ thể: Chưa nêu tên các cơ quan báo chí uy tín hay các dẫn chứng thực tế về quy trình kiểm duyệt thông tin."
+          ],
+          "special_notes": [
+            "⚠ Yêu cầu đối với dạng bài Opinion (Agree/Disagree): Thesis statement ở mở bài BẮT BUỘC phải thể hiện rõ mức độ đồng tình (ví dụ: 'I completely disagree with this view...'), không được dùng câu chung chung hẹn người đọc xem phần sau."
+          ]
+        },
+        "criterion2": {
+          "title": "Coherence & Cohesion — Band 6.0",
+          "strengths": [
+            "✓ Mạch lập luận có sự chuyển tiếp hợp lý: Thừa nhận ưu thế của báo mạng (nhanh, miễn phí) rồi chuyển sang khẳng định giá trị trường tồn của báo in.",
+            "✓ Sử dụng được các liên kết tương phản và bổ sung: 'On the other hand', 'Furthermore', 'In conclusion'."
+          ],
+          "weaknesses": [
+            "✗ Lỗi lặp từ nối cơ học ở mở bài: Dùng 'As a result' ở câu 2 và ngay lập tức dùng tiếp 'As a consequence' ở câu 3, khiến mạch văn bị giật cục và vụng về.",
+            "✗ Bố cục 5 đoạn bị ngắt vụn: Đoạn 3 (56 từ) và Đoạn 4 (42 từ) đều nói về lý do giữ lại báo in nhưng lại bị xé làm đôi. Nên gộp lại thành 1 đoạn thân bài 2 hoàn chỉnh.",
+            "✗ Sử dụng từ nối khẩu ngữ: Cụm 'For starters' không phù hợp với văn phong học thuật trang trọng của bài thi IELTS."
+          ]
+        },
+        "criterion3": {
+          "title": "Lexical Resource — Band 6.0",
+          "praises": [
+            "“profusion of digital platforms”, “indispensable”, “untrustworthy material”, “vetted before release” — vốn từ vựng học thuật sắc sảo, nâng tầm chất lượng bài viết.",
+            "“detrimental impact”, “alternative media” — cách diễn đạt tự nhiên và chính xác."
+          ],
+          "corrections_table": [
+            {
+              "error": "“physical diaries”",
+              "fix": "“printed newspapers / traditional print media”",
+              "explanation": "Lỗi dùng từ sai ngữ nghĩa nghiêm trọng nhất bài: 'diaries' là sổ nhật ký cá nhân. Báo in phải dùng 'printed newspapers' hoặc 'the print press'."
+            },
+            {
+              "error": "“Technology advancement”",
+              "fix": "“Technological advancement”",
+              "explanation": "Dùng tính từ 'technological' đứng trước danh từ 'advancement' để tạo thành cụm danh từ chuẩn xác."
+            },
+            {
+              "error": "“an up-to-date broadcast is now available”",
+              "fix": "“breaking news is readily accessible”",
+              "explanation": "'Broadcast' là chương trình phát thanh hoặc truyền hình (radio/TV), không dùng cho tin tức báo chí số trên thiết bị điện tử."
+            },
+            {
+              "error": "“For starters”",
+              "fix": "“Firstly / In the first place”",
+              "explanation": "'For starters' là thành ngữ khẩu ngữ thân mật (dùng trong giao tiếp nói hoặc chọn món ăn khai vị), lạc lõng trong văn phong học thuật IELTS."
+            },
+            {
+              "error": "“internet papers”",
+              "fix": "“online newspapers / digital news outlets”",
+              "explanation": "Cụm ghép 'internet papers' không tự nhiên; giới báo chí dùng 'digital media' hoặc 'online news outlets'."
+            },
+            {
+              "error": "“traditional periodicals”",
+              "fix": "“print publications / daily broadsheets”",
+              "explanation": "'Periodicals' thường dùng cho tập san khoa học hoặc tạp chí xuất bản định kỳ (tuần/tháng), không dùng cho báo nhật trình hàng ngày."
+            },
+            {
+              "error": "“publish the data”",
+              "fix": "“publish news stories / verified articles”",
+              "explanation": "Báo chí đưa tin tức hoặc phóng sự điều tra, không dùng 'data' (dữ liệu/số liệu thô)."
+            },
+            {
+              "error": "“free material”",
+              "fix": "“free content / freely accessible articles”",
+              "explanation": "Nội dung bài viết báo chí dùng 'content', không dùng 'material'."
+            },
+            {
+              "error": "“online journals”",
+              "fix": "“digital news platforms / online media”",
+              "explanation": "'Journal' là tạp chí học thuật chuyên ngành hoặc nhật ký cá nhân, không phải trang tin tức mạng thông thường."
+            },
+            {
+              "error": "“vital demand for physical press”",
+              "fix": "“vital role of the print press”",
+              "explanation": "'Demand for' là nhu cầu mua sắm sản phẩm; trong văn cảnh này cần nhấn mạnh 'vai trò thiết yếu của báo in'."
+            },
+            {
+              "error": "“acquire global updates”",
+              "fix": "“access international news / stay informed”",
+              "explanation": "Collocation chưa tự nhiên; cập nhật tin tức dùng 'access news' hoặc 'stay updated on global affairs'."
+            },
+            {
+              "error": "“negative influence, particularly on our eyes”",
+              "fix": "“adverse health consequences, notably digital eye strain”",
+              "explanation": "Nâng cấp từ vựng học thuật chuyên ngành y tế/công nghệ: 'digital eye strain' (mỏi mắt kỹ thuật số)."
+            }
+          ]
+        },
+        "criterion4": {
+          "title": "Grammatical Range & Accuracy — Band 6.5",
+          "praises": [
+            "Cấu trúc câu phức hoàn chỉnh và chuẩn ngữ pháp: 'Because anybody may create and upload articles on the internet, they may include untrustworthy material that has not been adequately vetted before release'.",
+            "Kết luận dùng mệnh đề nhượng bộ 'while' kết hợp phủ định kép rất mượt mà: 'this does not indicate that there is no longer a vital demand for...'."
+          ],
+          "corrections_table": [
+            {
+              "error": "“As a result ... As a consequence”",
+              "fix": "“Technological advancements have driven the proliferation of digital platforms, leading many to believe that...”",
+              "explanation": "Lỗi liên kết câu: Dùng liên tiếp 2 trạng từ chỉ hệ quả ('As a result' ở câu 2 và 'As a consequence' ở câu 3) khiến đoạn văn bị lặp và gián đoạn mạch logic."
+            },
+            {
+              "error": "“In the following paragraphs, I will clarify my position. There are numerous reasons to support this notion.”",
+              "fix": "“However, I strongly disagree with this assertion, as traditional newspapers continue to offer indispensable editorial credibility.”",
+              "explanation": "Hai câu ngắn cụt khuôn mẫu học vẹt, né tránh việc trả lời trực tiếp câu hỏi 'To what extent do you agree or disagree?' ngay tại Mở bài."
+            },
+            {
+              "error": "“keep readers up to date faster than”",
+              "fix": "“deliver news to readers more rapidly than”",
+              "explanation": "'Up to date' là tính từ ghép; cấu trúc so sánh hơn 'keep ... up to date faster' gượng gạo, nên dùng động từ 'deliver' kết hợp phó từ 'more rapidly'."
+            },
+            {
+              "error": "“it would take publications a few days”",
+              "fix": "“it takes print publishers several days”",
+              "explanation": "Dùng giả định 'would take' sai ngữ cảnh; đây là sự thật hiển nhiên ở thực tế hiện tại, cần dùng thì Hiện tại đơn."
+            },
+            {
+              "error": "“Because anybody may create and upload articles on the internet, they may include...”",
+              "fix": "“Since anyone can publish articles online, these platforms frequently host...”",
+              "explanation": "Lỗi mơ hồ đại từ 'they': người đọc không rõ 'they' chỉ tác giả (anybody), bài báo (articles) hay mạng internet."
+            },
+            {
+              "error": "“if we spend many hours each day reading online news on our mobile phone or computer, this might have a negative influence...”",
+              "fix": "“prolonged screen time spent consuming digital news often causes severe visual fatigue”",
+              "explanation": "Lạm dụng đại từ ngôi thứ nhất ('we', 'our'); cấu trúc 'if... this might have' mang văn phong nói, nên dùng danh hóa chủ ngữ để tăng tính học thuật."
+            },
+            {
+              "error": "“allowing users to access ... allowing them to save”",
+              "fix": "“allowing users to access free content, thereby saving them valuable time and money”",
+              "explanation": "Lỗi lặp cấu trúc phân từ 'allowing... allowing...' trong cùng một câu văn."
+            },
+            {
+              "error": "“the vast majority of people believe”",
+              "fix": "“many people believe / some argue that”",
+              "explanation": "Lỗi khái quát hóa quá mức (over-generalisation): đề bài chỉ nói 'some people', việc dùng 'the vast majority' là khẳng định võ đoán thiếu căn cứ số liệu."
+            }
+          ]
+        }
+      },
+      "improvement_plan": {
+        "target_band": "7.0",
+        "priorities": [
+          {
+            "title": "Ưu tiên số 1 — Tuyên bố Thesis dứt khoát & Gộp đoạn thân bài (Task Response & Coherence)",
+            "details": [
+              "Viết lại câu mở bài: Thay thế 2 câu sườn học vẹt bằng 1 câu Thesis trực diện: 'However, I strongly disagree with this assertion because print journalism provides indispensable reliability and deeper analytical value.'",
+              "Gộp đoạn 3 và đoạn 4 thành một đoạn Thân bài 2 hoàn chỉnh (khoảng 90-100 từ). Thay thế ý 'hại mắt' bằng ý 'giá trị lưu trữ và thói quen đọc chuyên sâu (in-depth reading / tactile reading experience)'."
+            ],
+            "structure_table": [
+              {
+                "section": "Mở bài (Intro)",
+                "content": "Câu 1: Paraphrase sự trỗi dậy của báo mạng. Câu 2: Tuyên bố phản đối mạnh mẽ ý kiến khai tử báo in (Thesis rõ ràng)."
+              },
+              {
+                "section": "Thân bài 1 (Advantage of Digital)",
+                "content": "Thừa nhận ưu thế của báo điện tử: Tốc độ cập nhật tính bằng giây (instantaneous updates) và khả năng tiếp cận tin bài miễn phí mọi lúc mọi nơi."
+              },
+              {
+                "section": "Thân bài 2 (Why Print is Indispensable)",
+                "content": "Khẳng định 2 giá trị cốt lõi của báo in: (1) Độ tin cậy tuyệt đối nhờ hội đồng biên tập và quy trình fact-checking nghiêm ngặt; (2) Trải nghiệm đọc sâu, không bị xao nhãng bởi quảng cáo hay thông báo số."
+              },
+              {
+                "section": "Kết luận (Conclusion)",
+                "content": "Khẳng định lại: Dù báo điện tử chiếm ưu thế về số lượng, báo in vẫn là trụ cột không thể thiếu của nền báo chí văn minh."
+              }
+            ]
+          },
+          {
+            "title": "Ưu tiên số 2 — Làm sạch các lỗi dùng từ sai ngữ nghĩa nghiêm trọng (Lexical Resource)",
+            "details": [
+              "Tuyệt đối không dùng 'diaries' (sổ nhật ký cá nhân) hay 'journals' để thay cho báo in; dùng: 'printed newspapers', 'print publications', 'traditional press'.",
+              "Bỏ các từ khẩu ngữ: thay 'For starters' bằng 'Firstly / In the first place'; thay 'publish the data' bằng 'publish news articles / stories'."
+            ]
+          },
+          {
+            "title": "Ưu tiên số 3 — Chuyển đổi văn phong khách quan, hạn chế dùng 'we / our' (Grammar & Style)",
+            "details": [
+              "Thay vì viết: 'if we spend many hours... particularly on our eyes', hãy dùng danh hóa khách quan: 'prolonged screen time often results in digital eye strain among avid readers'.",
+              "Tránh lặp các cụm chỉ kết quả liên tiếp ('As a result... As a consequence')."
+            ]
+          }
+        ],
+        "rewrite_sample": {
+          "intro": "“Technological advancements have led to a profusion of digital news platforms, prompting many to believe that printed newspapers have become obsolete. However, I strongly disagree with this assertion, as traditional print media continues to offer unparalleled editorial credibility and a distraction-free reading experience.”",
+          "body1": "“Admittedly, online journalism possesses several undeniable advantages. Foremost among these is the instantaneous dissemination of information, allowing readers to access breaking news from across the globe in real time, whereas physical publications typically require hours or even days to print and distribute. Furthermore, digital platforms grant users access to an abundance of free content without the need to purchase physical copies, offering substantial savings in both time and money.”",
+          "body2": "“Nevertheless, printed newspapers remain indispensable for two fundamental reasons. Firstly, they represent one of the most reliable sources of journalism. Unlike the internet, where unverified articles and sensationalised fake news proliferate, reputable print publications undergo rigorous fact-checking and thorough vetting by professional editorial boards prior to publication. Secondly, physical newspapers encourage focused, in-depth reading, free from the digital distractions, pop-up advertisements, and screen fatigue that commonly plague online browsing.”",
+          "conclusion": "“In conclusion, while digital media has transformed how information is consumed, it does not render traditional newspapers redundant. The print press remains an essential pillar of trustworthy journalism, preserving a level of integrity and depth that online outlets often struggle to match.”"
+        }
+      },
+      "callout_summary": {
+        "estimated_band": "6.0",
+        "target_band": "7.0",
+        "roadmap": "Tuyên bố Thesis rõ ràng ở Mở bài → Gộp thân bài 2 & 3 thành 1 đoạn vững chắc → Sửa triệt để lỗi dùng từ 'diaries'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "task_type": "Task 2",
+  "task_subtype": "Advantages – Disadvantages (dạng “Outweigh”) + Give Your Opinion",
+  "prompt": "In many countries today the retirement age from work has been raised. Do the advantages of raising the retirement age outweigh the disadvantages? Give reasons for your answer and include any relevant examples from own knowledge or experience.",
+  "topic_name": "Retirement Age (Advantages outweigh Disadvantages?)",
+  "overall_strengths": [
+    "Bài viết đạt độ dài 312 từ (vượt yêu cầu tối thiểu 250 từ) với bố cục 4 đoạn chuẩn mực (Mở bài - Thân bài 1 - Thân bài 2 - Kết luận).",
+    "Có đề cập đến cả hai phía của vấn đề: góc độ doanh nghiệp & tài chính công (ưu điểm) và góc độ sức khỏe người lao động (nhược điểm).",
+    "Mạnh dạn sử dụng các từ vựng học thuật nâng cao như “mitigate the burden”, “harness”, “surpass”, “exacerbate”."
+  ],
+  "overall_weaknesses": [
+    "Lỗi lập trường mâu thuẫn (Contradictory Position): Mở bài tuyên bố ưu điểm vượt trội (surpass drawbacks), nhưng kết luận lại bảo vệ nhược điểm và khuyên ưu tiên sức khỏe hơn tiền bạc. Đây là lỗi nghiêm trọng khiến Task Response bị giới hạn ở Band 5.0.",
+    "Thiếu ví dụ thực tế cụ thể: Bài viết hoàn toàn thiếu dẫn chứng tên quốc gia, chính sách cụ thể (như lộ trình tăng tuổi hưu ở Pháp hay Việt Nam) hoặc ngành nghề thực tế.",
+    "Mật độ lỗi từ vựng và ngữ pháp cao: Dịch thô từ tiếng Việt (working places, employing events, retirement salaries), chia bị động sai cho nội động từ (is fallen), và lỗi chính tả cơ bản (stuctures, inpredictable, acknowledgde)."
+  ],
+  "overall_classroom_suggestions": [
+    "Xác định và giữ vững một lập trường duy nhất từ đầu đến cuối bài; tuyệt đối không 'quay xe' ở câu kết luận.",
+    "Áp dụng nguyên tắc 'viết sạch trước khi viết cao': ưu tiên câu đúng ngữ pháp và collocation chuẩn xác trước khi nhồi nhét từ vựng lạ.",
+    "Dành 3-5 phút cuối giờ để soát lại 4 lỗi nền tảng: hòa hợp chủ vị, mạo từ, số ít/số nhiều và chính tả."
+  ],
+  "students": [
+    {
+      "name": "Thomas",
+      "word_count": "312",
+      "scores": {
+        "C1": 5.0,
+        "C2": 5.5,
+        "C3": 5.5,
+        "C4": 5.0,
+        "TB": 5.25,
+        "BAND": 5.5
+      },
+      "score_summary_table": [
+        {
+          "criterion": "Task Response",
+          "band": "5.0",
+          "comment": "Mở bài lạc đề; lập trường mâu thuẫn giữa mở bài và kết bài; thiếu ví dụ cụ thể."
+        },
+        {
+          "criterion": "Coherence & Cohesion",
+          "band": "5.5",
+          "comment": "Bố cục 4 đoạn rõ, nhưng từ nối dùng máy móc và liên kết câu trong đoạn còn lỏng lẻo."
+        },
+        {
+          "criterion": "Lexical Resource",
+          "band": "5.5",
+          "comment": "Có vốn từ khá nhưng dùng sai ngữ cảnh (dịch thô tiếng Việt); còn nhiều lỗi chính tả."
+        },
+        {
+          "criterion": "Grammatical Range & Accuracy",
+          "band": "5.0",
+          "comment": "Nỗ lực dùng câu phức nhưng sai nhiều: bị động của nội động từ, hỏng cấu trúc song song, lỗi mạo từ."
+        }
+      ],
+      "general_comment": "Bài ở ngưỡng Band 5.5 (trung bình 5.25, sát ranh giới với 5.0). Điểm cộng lớn: bài dài 312 từ, có bố cục 4 đoạn rõ ràng và học viên mạnh dạn dùng từ nâng cao như “mitigate the burden”, “harness”, “surpass”. Tuy nhiên, điểm số bị kéo xuống đáng kể bởi bốn vấn đề: (1) câu mở đầu mở bài không liên quan đến đề; (2) lập trường mâu thuẫn — mở bài nói lợi ích vượt trội, nhưng kết luận lại khuyên ưu tiên sức khỏe hơn tiền bạc; (3) hầu như không có ví dụ thực tế; (4) mật độ lỗi ngữ pháp và dịch thô từ tiếng Việt cao. Mục tiêu tiếp theo: Band 6.0.",
+      "original_essay_marked": [
+        [
+          {
+            "text": "Nowadays, ",
+            "highlight": "none"
+          },
+          {
+            "text": "the working conditions and standards at working places of businesses have been improved significantly",
+            "highlight": "error"
+          },
+          {
+            "text": ". There is an increasing trend in raising the retirement age from work in many countries today. From my perspective, ",
+            "highlight": "none"
+          },
+          {
+            "text": "its benefits can surpass its drawbacks",
+            "highlight": "good"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "This essay will analyze both of aspects and give explanation for the superiority",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "On the one hand, it is evident that this trend is ",
+            "highlight": "none"
+          },
+          {
+            "text": "beneficial to the businesses a little bit more",
+            "highlight": "error"
+          },
+          {
+            "text": ". Firstly, ",
+            "highlight": "none"
+          },
+          {
+            "text": "the late retirement age from work means a longer contribution of workers to the businesses",
+            "highlight": "error"
+          },
+          {
+            "text": ". In other words, the companies ",
+            "highlight": "none"
+          },
+          {
+            "text": "do not need to organise more employing events and the stability of the stuctures",
+            "highlight": "error"
+          },
+          {
+            "text": ". Moreover, ",
+            "highlight": "none"
+          },
+          {
+            "text": "if old employees with much experience do not retire too early, they can use their experience for better working",
+            "highlight": "error"
+          },
+          {
+            "text": ", leading to ",
+            "highlight": "none"
+          },
+          {
+            "text": "better efficiency",
+            "highlight": "error"
+          },
+          {
+            "text": ". Furthermore, governments also do not have to pay for ",
+            "highlight": "none"
+          },
+          {
+            "text": "retirement salaries",
+            "highlight": "error"
+          },
+          {
+            "text": ". ",
+            "highlight": "none"
+          },
+          {
+            "text": "Almost retirement payments",
+            "highlight": "error"
+          },
+          {
+            "text": " are now made by governments. Therefore, if workers can still work with their own salaries without ",
+            "highlight": "none"
+          },
+          {
+            "text": "the demand from the governments",
+            "highlight": "error"
+          },
+          {
+            "text": ", this can help ",
+            "highlight": "none"
+          },
+          {
+            "text": "mitigate the burden",
+            "highlight": "good"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "On the other hand, the negative point can be seen most clearly through the workers themselves. ",
+            "highlight": "none"
+          },
+          {
+            "text": "Too late retirement age can result in health downgrade",
+            "highlight": "error"
+          },
+          {
+            "text": " and higher risks of illness. ",
+            "highlight": "none"
+          },
+          {
+            "text": "When human turn to the elderly period of life, their well-being will be automatically fallen to a lower operation state",
+            "highlight": "error"
+          },
+          {
+            "text": ". At that age people should ",
+            "highlight": "none"
+          },
+          {
+            "text": "stop being glue to their hustle lifestyle",
+            "highlight": "error"
+          },
+          {
+            "text": " like before and start caring for their health, otherwise they can ",
+            "highlight": "none"
+          },
+          {
+            "text": "get sudden death at an inpredictable time",
+            "highlight": "error"
+          },
+          {
+            "text": ". That will be ",
+            "highlight": "none"
+          },
+          {
+            "text": "a sad story for their families",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ],
+        [
+          {
+            "text": "In conclusion, ",
+            "highlight": "none"
+          },
+          {
+            "text": "this essay acknowledgde the advantages and disadvantage",
+            "highlight": "error"
+          },
+          {
+            "text": " of the trend. Businesses can ",
+            "highlight": "none"
+          },
+          {
+            "text": "harness old workers",
+            "highlight": "good"
+          },
+          {
+            "text": " for better productivity and also the decreased pressure on government, but it also comes with ",
+            "highlight": "none"
+          },
+          {
+            "text": "exacerbating workers' health",
+            "highlight": "error"
+          },
+          {
+            "text": ". In my opinion, people should ",
+            "highlight": "none"
+          },
+          {
+            "text": "consider and prioritize to their health more than just pursuing money",
+            "highlight": "error"
+          },
+          {
+            "text": ".",
+            "highlight": "none"
+          }
+        ]
+      ],
+      "criteria_analysis": {
+        "criterion1": {
+          "title": "Task Response — Band 5.0",
+          "strengths": [
+            "✓ Có đề cập cả hai phía: lợi ích (doanh nghiệp, chính phủ) và tác hại (sức khỏe người lao động) — đúng hướng của dạng bài.",
+            "✓ Ý tưởng về doanh nghiệp (giữ người có kinh nghiệm, giảm nhu cầu tuyển dụng) và chính phủ (giảm gánh nặng lương hưu) là ý liên quan và hợp lý; góc nhìn từ phía doanh nghiệp khá riêng.",
+            "✓ Độ dài 312 từ, vượt yêu cầu tối thiểu.",
+            "✓ Có thesis ngay ở mở bài (“its benefits can surpass its drawbacks”)."
+          ],
+          "weaknesses": [
+            "✗ Mở bài lạc đề: câu đầu về “working conditions … improved” không liên quan đến tuổi nghỉ hưu; câu thứ hai gần như chép lại đề.",
+            "✗ Lập trường mâu thuẫn: mở bài nói “benefits can surpass drawbacks”, nhưng kết luận khuyên “prioritize health more than money” — nghiêng về mặt tiêu cực. Giám khảo không biết học viên đứng về phía nào.",
+            "✗ Không có ví dụ cụ thể (quốc gia, nghề nghiệp, số liệu) dù đề yêu cầu “include relevant examples”.",
+            "✗ Kết luận chuyển sang lời khuyên cá nhân (“people should…”) thay vì trả lời câu hỏi “ưu điểm có vượt nhược điểm không?”; còn dùng ngôn ngữ siêu văn bản (“this essay acknowledges…”).",
+            "✗ Khái quát hóa: “Almost retirement payments are now made by governments” — không chính xác ở nhiều nước; “sudden death” là khẳng định cực đoan, thiếu cơ sở.",
+            "✗ Mất cân đối: đoạn 2 (~130 từ) có ba ý tối nghĩa, đoạn 3 chỉ có một ý."
+          ],
+          "special_notes": [
+            "⚠ Lỗi lập trường — cần xử lý trước tiên: Với câu hỏi “Do the advantages outweigh the disadvantages?”, bạn phải chọn MỘT phía và giữ nguyên từ mở bài đến kết bài. Nếu thấy sức khỏe quan trọng hơn, hãy tuyên bố nhược điểm vượt trội ngay từ đầu!"
+          ]
+        },
+        "criterion2": {
+          "title": "Coherence & Cohesion — Band 5.5",
+          "strengths": [
+            "✓ Bố cục 4 đoạn: mở bài – ưu điểm – nhược điểm – kết luận; mỗi đoạn có câu chủ đề (“On the one hand”, “On the other hand”).",
+            "✓ Dùng khá đa dạng từ nối: “Firstly”, “Moreover”, “Furthermore”, “Therefore”.",
+            "✓ Tiến trình ưu điểm hợp lý: doanh nghiệp → kinh nghiệm → chính phủ."
+          ],
+          "weaknesses": [
+            "✗ “In other words” dùng sai: câu sau không diễn đạt lại câu trước mà đưa thêm ý mới.",
+            "✗ “Therefore” ở cuối đoạn 2 nối với ý “workers still work with their own salaries” — quan hệ nhân quả mơ hồ.",
+            "✗ Đoạn 3 nhảy ý: sức khỏe → lối sống → “sudden death” → gia đình mà không có liên kết logic.",
+            "✗ Dùng ngôn ngữ siêu văn bản (“This essay will…”, “this essay acknowledges…”). Ở Task 2 nên dùng trực tiếp “I believe…”.",
+            "✗ Hai đoạn thân bài mất cân đối về độ dài và độ sâu."
+          ]
+        },
+        "criterion3": {
+          "title": "Lexical Resource — Band 5.5",
+          "praises": [
+            "“mitigate the burden”, “harness”, “surpass”, “exacerbate” — từ vựng học thuật phù hợp ngữ cảnh khi dùng đúng.",
+            "“longer contribution of workers”, “risks of illness”, “well-being” — diễn đạt tự nhiên và chính xác."
+          ],
+          "corrections_table": [
+            {
+              "error": "“working places”",
+              "fix": "“workplaces”",
+              "explanation": "Danh từ ghép chuẩn trong tiếng Anh là một từ đơn."
+            },
+            {
+              "error": "“employing events”",
+              "fix": "“recruitment drives”",
+              "explanation": "Cụm từ không tự nhiên; tuyển dụng dùng recruitment drives / campaigns."
+            },
+            {
+              "error": "“stuctures”",
+              "fix": "“structures”",
+              "explanation": "Lỗi chính tả cơ bản, thiếu chữ 'r'."
+            },
+            {
+              "error": "“for better working … better efficiency”",
+              "fix": "“to work more effectively … greater efficiency”",
+              "explanation": "Better working không chuẩn; tính từ đi với efficiency là greater hoặc higher."
+            },
+            {
+              "error": "“old employees” / “old workers”",
+              "fix": "“older employees” / “senior employees”",
+              "explanation": "Dùng 'old' trực tiếp thiếu tế nhị trong văn phong học thuật."
+            },
+            {
+              "error": "“retirement salaries”",
+              "fix": "“pensions” / “retirement benefits”",
+              "explanation": "Lương hưu là pension, không dùng salary."
+            },
+            {
+              "error": "“health downgrade”",
+              "fix": "“decline in health” / “deteriorating health”",
+              "explanation": "Downgrade dùng cho cấp bậc/phần mềm/hàng hóa, không dùng cho sức khỏe con người."
+            },
+            {
+              "error": "“hustle lifestyle”",
+              "fix": "“hectic / demanding lifestyle”",
+              "explanation": "Hustle là tiếng lóng, mang nghĩa làm thêm nhiều việc kiếm tiền."
+            },
+            {
+              "error": "“get sudden death”",
+              "fix": "“die suddenly”",
+              "explanation": "Không dùng động từ get đi với sudden death."
+            },
+            {
+              "error": "“inpredictable”",
+              "fix": "“unpredictable”",
+              "explanation": "Tiền tố phủ định chuẩn của predictable là un-."
+            },
+            {
+              "error": "“a sad story for their families”",
+              "fix": "“devastating for their families”",
+              "explanation": "Diễn đạt mang tính khẩu ngữ thân mật, không phù hợp văn phong học thuật IELTS."
+            },
+            {
+              "error": "“acknowledgde”",
+              "fix": "“acknowledge(s)”",
+              "explanation": "Lỗi chính tả từ học thuật cơ bản."
+            }
+          ]
+        },
+        "criterion4": {
+          "title": "Grammatical Range & Accuracy — Band 5.0",
+          "praises": [
+            "Câu điều kiện kết hợp phân từ đáng khen: “Moreover, if old employees with much experience do not retire too early, they can use their experience for better working, leading to better efficiency” — tư duy cấu trúc phức rất tốt."
+          ],
+          "corrections_table": [
+            {
+              "error": "“both of aspects”",
+              "fix": "“both aspects”",
+              "explanation": "Both đi trực tiếp với danh từ số nhiều (both aspects), không có 'of'."
+            },
+            {
+              "error": "“give explanation for the superiority”",
+              "fix": "“explain which side is stronger”",
+              "explanation": "Cụm danh hóa gượng gạo và thiếu mạo từ; nên tránh câu siêu văn bản."
+            },
+            {
+              "error": "“the late retirement age from work means a longer contribution of workers…”",
+              "fix": "“a later retirement age means that workers contribute for longer”",
+              "explanation": "Cần dạng so sánh later; danh hóa gượng gạo."
+            },
+            {
+              "error": "“do not need to organise more employing events and the stability of the stuctures”",
+              "fix": "“do not need to recruit as often, which keeps their structures stable”",
+              "explanation": "Lỗi cấu trúc song song (parallelism): organise (V) nối với the stability (N) thiếu động từ."
+            },
+            {
+              "error": "“When human turn to the elderly period of life”",
+              "fix": "“When people reach old age”",
+              "explanation": "Human cần số nhiều hoặc chuyển sang people; collocation chuẩn là reach old age."
+            },
+            {
+              "error": "“their well-being will be automatically fallen to a lower operation state”",
+              "fix": "“their health will inevitably decline”",
+              "explanation": "Fall là nội động từ, tuyệt đối không chia bị động; operation state là từ ghép máy móc."
+            },
+            {
+              "error": "“Too late retirement age can result in…”",
+              "fix": "“A retirement age that is set too high can result in…”",
+              "explanation": "Thiếu mạo từ; too late không bổ nghĩa trực tiếp cho age theo ngữ cảnh này."
+            },
+            {
+              "error": "“stop being glue to”",
+              "fix": "“stop being glued to”",
+              "explanation": "Bị động cần quá khứ phân từ glued."
+            },
+            {
+              "error": "“this essay acknowledgde the advantages and disadvantage”",
+              "fix": "“this essay acknowledges the advantages and disadvantages”",
+              "explanation": "Lỗi hòa hợp chủ vị (this essay -> acknowledges) và số ít/số nhiều."
+            },
+            {
+              "error": "“it also comes with exacerbating workers’ health”",
+              "fix": "“it also exacerbates health problems”",
+              "explanation": "Come with + V-ing sai; tân ngữ của exacerbate phải là vấn đề (problems), không phải health."
+            },
+            {
+              "error": "“consider and prioritize to their health”",
+              "fix": "“consider and prioritise their health”",
+              "explanation": "Prioritise là ngoại động từ, không có giới từ to theo sau."
+            },
+            {
+              "error": "“Almost retirement payments”",
+              "fix": "“Most retirement payments”",
+              "explanation": "Almost đi với all/every; đi trực tiếp với danh từ phải dùng most."
+            }
+          ]
+        }
+      },
+      "improvement_plan": {
+        "target_band": "6.0",
+        "priorities": [
+          {
+            "title": "Ưu tiên số 1 — Chọn một lập trường và giữ nhất quán (Task Response)",
+            "details": [
+              "Đây là điều kiện tiên quyết để vượt qua Band 5.0 ở Task Response. Dựa trên cảm nhận của bạn (sức khỏe người già quan trọng hơn tiền bạc), hãy chọn lập trường: 'disadvantages outweigh advantages'.",
+              "Mọi đoạn văn trong bài đều phải phục vụ để làm nổi bật lập trường này."
+            ],
+            "structure_table": [
+              {
+                "section": "Mở bài",
+                "content": "Câu 1: Paraphrase đề bài. Câu 2: Thesis rõ ràng: '...the drawbacks, especially for workers’ health, are more significant than the benefits.'"
+              },
+              {
+                "section": "Thân bài 1",
+                "content": "Nhượng bộ ưu điểm: (1) Doanh nghiệp giữ chân nhân sự kinh nghiệm; (2) Chính phủ giảm gánh nặng lương hưu. Rút gọn súc tích."
+              },
+              {
+                "section": "Thân bài 2",
+                "content": "Phát triển sâu nhược điểm (phía được chọn): Sức khỏe suy giảm, ngành nghề lao động chân tay, nguy cơ tai nạn; kèm ví dụ thực tế."
+              },
+              {
+                "section": "Kết luận",
+                "content": "Khẳng định lại lập trường ở mở bài: Dù có lợi ích kinh tế, tác hại lên sức khỏe người lao động lớn hơn nhiều."
+              }
+            ]
+          },
+          {
+            "title": "Ưu tiên số 2 — Thêm ví dụ cụ thể và bỏ ngôn ngữ siêu văn bản",
+            "details": [
+              "Mỗi đoạn thân bài cần ít nhất 1 ví dụ cụ thể. Ví dụ phù hợp: Nước Pháp đã nâng dần tuổi nghỉ hưu từ 62 lên 64 vào năm 2023 nhằm cân đối quỹ hưu trí; hoặc Việt Nam nâng tuổi hưu lên 62 với nam và 60 với nữ theo Bộ luật Lao động 2019.",
+              "Bỏ câu máy móc 'This essay will analyze...' thay bằng 'I believe that...'; thay 'this essay acknowledges...' bằng 'In conclusion, although...'."
+            ]
+          },
+          {
+            "title": "Ưu tiên số 3 — Viết 'sạch' trước khi viết 'cao' (Grammar & Vocabulary)",
+            "details": [
+              "Ở Band 6, giám khảo đề cao độ chính xác. Giữ lại các từ học thuật dùng đúng (mitigate, harness) và thay các cụm dịch thô bằng cụm chuẩn.",
+              "Kiểm tra 4 lỗi kinh điển trước khi nộp bài: (1) hòa hợp chủ vị; (2) mạo từ a/an/the; (3) số ít/số nhiều; (4) không chia bị động cho nội động từ (fall, happen, decline)."
+            ]
+          }
+        ],
+        "rewrite_sample": {
+          "intro": "“In a growing number of countries, people are expected to work until a later age before they can claim a pension. Although this change brings certain benefits to employers and governments, I believe that its drawbacks, especially for workers’ health, are more significant.”",
+          "body1": "“Admittedly, a higher retirement age offers clear advantages. Firstly, companies can retain experienced staff for longer, which reduces recruitment costs and helps maintain productivity. Secondly, governments have to pay pensions for fewer years, which eases the pressure on public budgets as populations age.”",
+          "body2": "“However, these gains are outweighed by the toll on workers themselves. As people grow older, they become more vulnerable to illness and exhaustion, particularly in physically demanding jobs such as construction or farming. A worker who must continue until their mid-sixties may therefore be more likely to suffer from chronic conditions or workplace accidents, leaving less time to enjoy retirement with their families. In my view, a modest saving for the state does not justify a decline in people’s well-being.”",
+          "conclusion": "“In conclusion, although a later retirement age helps businesses and public finances, I believe that the harm it can cause to older workers’ health is more serious than these financial benefits.”"
+        }
+      },
+      "callout_summary": {
+        "estimated_band": "5.5",
+        "target_band": "6.0",
+        "roadmap": "Chọn một lập trường nhất quán → Thêm ví dụ cụ thể, bỏ câu lạc đề → Soát lỗi nền tảng, dùng từ chính xác"
+      }
+    }
+  ]
+}
