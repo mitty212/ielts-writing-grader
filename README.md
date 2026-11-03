@@ -23,23 +23,12 @@ Bộ kỹ năng mã nguồn mở dành cho các hệ thống AI Agent (Google An
 
 ## 🚀 Hướng Dẫn Cài Đặt Cho AI Agent (Agent Installation Guide)
 
-### 1. Đối với Google Antigravity
-Bộ skill đã được tích hợp sẵn trong thư mục `skills/ielts-writing-grader/`. Để đăng ký:
-- Đảm bảo file `.agents/skills.json` ở thư mục gốc chứa:
-```json
-{
-  "skills": [
-    "skills/ielts-writing-grader"
-  ]
-}
-```
-
-### 2. Đối với Claude Code / Claude Desktop / Custom Agents
+### 1. Đối với Claude Code / Claude Desktop / Custom Agents
 Sao chép toàn bộ thư mục `skills/ielts-writing-grader` vào thư mục lưu trữ skills của bạn (ví dụ `~/.claude/skills/` hoặc thư mục workspace).
 Trong system prompt hoặc agent instructions, thêm chỉ dẫn:
 > "Khi nhận được yêu cầu chấm bài IELTS Writing, hãy đọc file `skills/ielts-writing-grader/SKILL.md` và thực thi quy trình theo hướng dẫn."
 
-### 3. Đối với Cursor IDE / Cline / VS Code
+### 2. Đối với Cursor IDE / Cline / VS Code
 Đặt bộ skill trong thư mục `.cursor/rules/` hoặc `.agent/skills/`. Agent có thể trực tiếp gọi các lệnh CLI trong thư mục `scripts/`.
 
 ---
